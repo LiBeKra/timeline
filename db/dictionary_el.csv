@@ -1,0 +1,447 @@
+key,text,notes,english
+version,4.7,,4.7
+pdf_title,6000 χρόνια ανθρώπινης ιστορίας οπτικοποιημένη,,6000 years human history visualized
+pdf_subject,Χρονοδιάγραμμα της ανθρωπότητας,,Timeline of humankind
+BCE,B.C.E.,,B.C.E.
+CE,C.E.,,C.E.
+year,έτος,"timespan, age (Adam was 130 years old when Shem was born)",year
+years,χρόνια,,years
+years_age,χρόνια,"years when used as age for a person (different word than years in some languages), like he is 23 years old ",years
+age_kings, ,"if the word ""year"" appears after the numeral, like ""at the age of 35 years""", 
+month,μήνας,,month
+months,μήνες,,months
+day,ημέρα,,day
+days,ημέρες,,days
+to,προς την,,to
+people,Ανθρωποι,,people
+judges,δικαστές,,judges
+prophets,προφήτες,,prophets
+kings,βασιλιάδες,,kings
+periods,έμμηνα,,periods
+events,εκδηλώσεις,,events
+objects,αντικείμενα ή αντικείμενα,,objects or items
+Deluge,Κατακλυσμός,,Deluge
+Adam,Αδάμ,Luke 3:38,Adam
+Seth,Ο Σεθ,,Seth
+Enosh,Enosh,,Enosh
+Kenan,Κενάν,,Kenan
+Mahalalel,Μαχαλαλεήλ,,Mahalalel
+Jared,Ο Τζάρεντ,,Jared
+Enoch,Ενώχ,,Enoch
+Methuselah,Μαθουσάλας,Luke 3:37,Methuselah
+Lamech,Lamech,,Lamech
+Noah,Νώε,,Noah
+Shem,Shem,,Shem
+Arpachshad,Arpachshad,Luke 3:36,Arpachshad
+Shelah,Shelah,,Shelah
+Eber,Έμπερ,,Eber
+Peleg,Peleg,,Peleg
+Reu,Reu,,Reu
+Serug,Serug,Luke 3:35,Serug
+Nahor,Ναχόρ,Genesis 11:24 ,Nahor
+Terah,Τεράχ,,Terah
+Abraham,Αβραάμ,,Abraham
+Isaac,Ισαάκ,,Isaac
+Jacob,Ιάκωβος,Luke 3:34,Jacob
+Joseph,Ιωσήφ,Genesis 37 ,Joseph
+Moses,Μωυσής,,Moses
+Othniel,Όθνιελ,Judges 3:9-11,Othniel
+Ehud,Εχούντ,Judges 3:15-18,Ehud
+Shamgar,Shamgar,Judges 3:31,Shamgar
+Barak,Μπαράκ,Judges 4:6,Barak
+Gideon,Ο Γκίντεον,Judges 7:1,Gideon
+Tola,Τόλα,Judges 10:1,Tola
+Jair,Jair,Judges 10:3,Jair
+Jephthah,Ο Ιεφθάε,Judges 11:1,Jephthah
+Ibzan,Ibzan,Judges 12:8,Ibzan
+Elon,Έλον,Judges 12:11,Elon
+Abdon,Abdon,Judges 12:13,Abdon
+Samson,Σαμψών,Judges 13:24,Samson
+Samuel,Σαμουήλ,1 Samuel 1:20,Samuel
+Saul,Σαούλ,1 Samuel 9:2,Saul
+David,Δαβίδ,1 Samuel 16:13,David
+Solomon,Σολομών,1 Kings 2:1,Solomon
+Rehoboam,Ροβοάμ,first king of southern kingdom of Juda,Rehoboam
+Abijah,Αμπιτζάχ (Αμπιτζάμ),"3 years, also Abijam",Abijah (Abijam)
+Asa,Σαν,,Asa
+Jehoshaphat,Ο Ιωσαφάτ,bce_float = -y+1 - (12-m)/12 – (31-d)/360,Jehoshaphat
+Jehoram2,Ιεχοράμ,,Jehoram
+Ahaziah,Ο Αχαζίας,,Ahaziah
+Athaliah,Βασίλισσα Αθαλία,Queen Athaliah,Queen Athaliah
+Jehoash,Ο Ιωάς,,Jehoash
+Amaziah,Αμαζία,,Amaziah
+Uzziah,Ουζίας (Αζαρία),also Azariah,Uzziah (Azariah)
+Jotham,Jotham,,Jotham
+Ahaz,Αχάζ,,Ahaz
+Hezekiah,Εζεκίας,,Hezekiah
+Manasseh,Ο Μανασσής,,Manasseh
+Amon,Amon,,Amon
+Josiah,Ο Ιωσίας,,Josiah
+Jehoahaz,Ο Ιωάχαζ,Only 3 months,Jehoahaz
+Jehoiakim,Ιωακείμ,,Jehoiakim
+Jehoiachin,Ο Ιεχοϊακίν,Only 3 months 10 days,Jehoiachin
+Zedekiah,Σεδεκίας,,Zedekiah
+Jeroboam,ο Ιεροβοάμ,first king of northern 10-tribe kingdom,Jeroboam
+Nadab,Nadab,less than 2,Nadab
+Baasha,Μπάσα,,Baasha
+Elah,Ελάχ,,Elah
+Zimri,Ζίμρι,Only 7 days in ca. 751 BCE,Zimri
+OmriTibni,Omri και Tibni μαζί,4 years Omri and Tibni,Omri and Tibni together
+Omri,Όμρι (μόνος),from 947 Omri alone,Omri (alone)
+Ahab,Αχαάβ,,Ahab
+Jehoram,Ιεχοράμ,,Jehoram
+Jehu,Jehu,,Jehu
+Jeoahaz,Jeoahaz,,Jeoahaz
+JeoahazJehoash,Ο Ιωάχαζ και ο Ιωάς,For 3 years Jeoahaz and Jeoash reigned together,Jeoahaz and Jehoash
+Jehoash2,Ιεχωάς (μόνος),Jehoash (alone),Jehoash (alone)
+Jeroboam2,Ιεροβοάμ Β',,Jeroboam II
+Zechariah,Ζαχαρίας,"reign only recorded 6 months, probably only established 792 BCE",Zechariah
+Schallum,Schallum,only one month,Schallum
+Menahem,Μεναχέμ,,Menahem
+Pekahiah,Πεκαχία,,Pekahiah
+Pekah,Pekah,,Pekah
+Hoshea,Hoshea,9 years from c. 748,Hoshea
+Elijah,Ο Ηλίας,,Elijah
+Elisha,Ελισαίου,,Elisha
+Jonah,Γρουσούζης,,Jonah
+Amos,Amos,,Amos
+Joel,Τζόελ,,Joel
+Hosea,Osea,,Hosea
+Isaiah,Ησάιας,,Isaiah
+Micah,Ο Μίχας,,Micah
+Zephaniah,Σοφονία,,Zephaniah
+Nahum,Ναούμ,,Nahum
+Jeremiah,Ιερεμίας,,Jeremiah
+Habakuk,Ο Χαμπακούκ,,Habakuk
+Daniel,Δανιήλ,,Daniel
+Ezekiel,Ιεζεκιήλ,,Ezekiel
+Obadiah,Ο Obadiah,,Obadiah
+Malachi,Μαλαχίας,,Malachi
+Ruth,Ρουθ,,Ruth
+Ezra,Έζρα,,Ezra
+Nehemiah,Ο Νεεμίας,,Nehemiah
+Esther,Εσθήρ,,Esther
+Job,Δουλειά,,Job
+moses2,1593 έως 1473 π.Χ. – 120 χρόνια,,1593 to 1473 B.C.E. – 120 years
+moses3,Μωυσής,,Moses
+wilderness,Το Ισραήλ στην έρημο 1513 έως 1473 π.Χ. – 40 χρόνια,,Israel in the wilderness 1513 to 1473 B.C.E. – 40 years
+timespan_judges,1473 έως 1117 π.Χ. – 356 χρόνια,,1473 to 1117 B.C.E. – 356 years
+timespan_judges2,Ώρα των κριτών,,Time of the judges
+temple1,Nisan 1513 B.C.E. έως Ziv 1034 B.C.E.,,Nisan 1513 B.C.E. to Ziv 1034 B.C.E.
+temple2,479 χρόνια μέχρι την ανέγερση του ναού – Α΄ Βασιλέων 6:1,1034 BCE,479 years until the temple construction – 1 Kings 6:1
+69weeks,Ο Ιησούς βάφτισε το φθινόπωρο του 29 Κ.Χ.,,Jesus baptized autumn 29 C.E.
+69weeks2,69 εβδομάδες στον Μεσσία – Δανιήλ 9:25,,69 weeks to the Messiah – Daniel 9:25
+jesus_service,"3,5 χρόνια υπηρεσίας του Ιησού, που εκτελέστηκε στις 14 Νισάν, 33 Κ.Χ.",,"3.5 years of Jesus service, executed Nisan 14th, 33 C.E."
+jesus_life,Ο Ιησούς γεννήθηκε το 2 π.Χ.,,Jesus born 2 B.C.E.
+exile,607 έως 537 π.Χ. – 70 χρόνια (Ιερεμίας 25:11),,607 to 537 B.C.E. – 70 years (Jeremiah 25:11)
+exile2,εξορία,,exile
+7times,Αποκάλυψη 12:9,,Revelation 12:9
+7times2,7 φορές – 2520 χρόνια στο Μεσσιανικό Βασίλειο 1914 Κ.Χ. (Δανιήλ 4:23),,7 times – 2520 years to the Messianic Kingdom 1914 C.E. (Daniel 4:23)
+ww1,Πρώτος Παγκόσμιος Πόλεμος – 1914–1918 C.E.,,World War I – 1914–1918 C.E.
+ww2,Δεύτερος Παγκόσμιος Πόλεμος – 1939–1945 C.E.,,World War II – 1939–1945 C.E.
+30_year_war,Τριακονταετής Πόλεμος στην Ευρώπη 1618-1648,,Thirty Years' War in Europe 1618-1648
+joshua,110 χρόνια,,110 years
+joshua2,Ιησούς του ναυή,,Joshua
+caleb,περισσότερα από 85 χρόνια,,more than 85 years
+caleb2,Caleb,,Caleb
+missionary1,"Πρώτο Ιεραποστολικό Ταξίδι του Παύλου, γ. 47-48 μ.Χ. με τον Βαρνάβα και τον Ιωάννη Μάρκο",,"First Missionary Journey of Paul, c. 47-48 C.E. with Barnabas and John Mark"
+circumcision,"Θέμα περιτομής στην Αντιόχεια, συνέδριο στην Ιερουσαλήμ γ. 49 Κ.Ε.",,"Circumcision issue at Antioch, conference in Jerusalem c. 49 C.E."
+missionary2,Δεύτερο Ιεραποστολικό Ταξίδι γ. 49-52 C.E with Silas (Silvanus),,Second Missionary Journey c. 49-52 C.E with Silas (Silvanus)
+missionary3,Τρίτο Ιεραποστολικό Ταξίδι γ. 52-56 Κ.Ε.,,Third Missionary Journey c. 52-56 C.E.
+caesarea,Παύλος υπό κράτηση στην Καισάρεια γ. 56-58 Κ.Ε.,,Paul in custody in Caesarea c. 56-58 C.E.
+rome1,Η πρώτη φυλάκιση του Παύλου στη Ρώμη γ. 59-61 Κ.Ε.,,Paul’s first imprisonment in Rome c. 59-61 C.E.
+rome2,"Η δεύτερη φυλάκιση του Παύλου στη Ρώμη γ. 65 Κ.Χ., Β΄ Τιμόθεο γραμμένο, ο Παύλος εκτελέστηκε",,"Paul’s second imprisonment in Rome c. 65 CE, 2 Timothy written, Paul executed"
+Julius,Ιούλιος,,Julius
+Augustus,Ο Αύγουστος,Luke 2:1,Augustus
+Tiberius,Τιβέριος,Luke 3:1,Tiberius
+Caligula,Καλιγούλας,,Caligula
+Claudius,Ο Κλαύδιος,Acts 11:28,Claudius
+Nero,Νέρωνας,,Nero
+Galba-Otho-Vitellius,"Galba, Otho και Vitellius (Έτος των τεσσάρων αυτοκρατόρων)",,"Galba, Otho and Vitellius (Year of the Four Emperors)"
+Vespasian,Βεσπασιανός,,Vespasian
+event_exodus,"Έξοδος από την Αίγυπτο στις 14 Νισάν, 1513 Π.Χ.",,"Exodus from Egypt on Nisan 14th, 1513 B.C.E."
+event_division_kingdom,Μεραρχία Ισραήλ 997 π.Χ,,Division of Israel 997 BCE
+event_destruction_samaria,Καταστροφή της Σαμάρειας 740 π.Χ. από την Ασσυρία,Destruction of Samaria 740 B.C.E. by Assyria,Destruction of Samaria 740 B.C.E. by Assyria
+event_destruction_samaria2,740 π.Χ. από την Ασσυρία,was shortened here for 2 lines,740 B.C.E. by Assyria
+event_destruction_jerusalem1,"Καταστροφή της Ιερουσαλήμ 607 π.Χ. από τη Βαβυλώνα, 390 χρόνια μετά τη διαίρεση του βασιλείου (Ιεζεκιήλ 4:5)",,"Destruction of Jerusalem 607 B.C.E. by Babylon, 390 years after the division of the kingdom (Ezekiel 4:5)"
+event_temple_rebuilt,Ναός στην Ιερουσαλήμ που ξαναχτίστηκε το 515 π.Χ.,,Temple in Jerusalem rebuilt 515 B.C.E.
+event_jerusalem_rebuilt,Το τείχος της Ιερουσαλήμ ξαναχτίστηκε το 455 π.Χ.,,Jerusalem wall rebuilt 455 B.C.E.
+event_destruction_jerusalem2,Καταστροφή της Ιερουσαλήμ 70 Κ.Χ. από τη Ρώμη υπό τον Τίτο,,Destruction of Jerusalem 70 C.E. by Rome under Titus
+event_1914,"Τέλος της εποχής των εθνών (Λουκάς 21:24), η βασιλεία του Θεού αρχίζει να κυβερνά στον ουρανό το 1914 Κ.Χ.",include scripture Luke 21:24,"End of the time of the nations (Luke 21:24), God’s kingdom starts to rule in heaven 1914 C.E. "
+became_king,έγινε βασιλιάς σε ηλικία,,became king at age
+vulgate,Η Βουλγάτα συμπλήρωσε ο Ιερώνυμος (Λατινική μετάφραση της Βίβλου) γ. 405 Κ.Ε.,,Vulgate completed by Jerome (Latin translation of the bible) c. 405 C.E.
+gutenberg,Η Βίβλος του Gutenberg τυπώθηκε το 1455,,Gutenberg bible printed 1455
+erasmus,Ελληνικό κείμενο Χριστιανικών Ελληνικών Γραφών που εκδόθηκε από τον Desiderius Erasmus του Ρότερνταμ 1516,,Greek text of Christian Greek Scriptures published by Desiderius Erasmus of Rotterdam 1516
+luther,Μετάφραση της Βίβλου του Λούθηρου τον Σεπτέμβριο του 1522,,Luther Bible translation in September 1522
+tyndale,Μετάφραση της Αγγλικής Βίβλου από τον Tyndale 1536,,English Bible translation by Tyndale 1536
+king_james,Βίβλος του Βασιλιά Τζέιμς 1611,,King James Bible 1611
+69weeks3,"Ο Ιησούς ξεκινά την υπηρεσία του το 29 Κ.Χ. (Λουκάς 3:1, 21)",,"Jesus starts his service 29 CE (Luke 3:1, 21)"
+ransom,μέσα της εβδομάδας «θυσία για να σταματήσει» Δανιήλ 9:27,,middle of week “sacrifice to cease” Daniel 9:27
+cornelius,Ο Κορνήλιος βάφτισε στο τέλος των 70 εβδομάδων (Δανιήλ 9:24) το 36 Κ.Χ.,,Cornelius baptized at the end of 70 weeks (Daniel 9:24) in 36 C.E.
+columbus,τέλος της προκολομβιανής περιόδου στην Αμερική 1492,,end of the pre-columbian period in the Americas 1492
+declaration_independence,Διακήρυξη ανεξαρτησίας 13 αποικιών στην Αμερική το 1776,,declaration of independence of 13 colonies in America 1776
+tischendorf,Ο Tischendorf ανακαλύπτει τον Codex Sinaiticus από τον 4ο αιώνα το 1844,,Tischendorf discovers the Codex Sinaiticus from the 4th century in 1844
+dead_sea_scrolls,Γραμμένοι χειρόγραφοι της Νεκράς Θάλασσας,,Dead Sea Scrolls written
+septuagint,Εβδομήκοντα LXX μεταφρασμένο,,Septuagint LXX translated
+watchtower,Το πρώτο τεύχος της «Σκοπιάς της Σιών και Κήρυξ της Παρουσίας του Χριστού» εκδίδεται το 1879,,The first issue of “Zion’s Watch Tower and Herald of Christ’s Presence” is published in 1879
+photodrama,Το «Photo-Drama of Creation» προβάλλεται για πρώτη φορά στη Νέα Υόρκη στις 11 Ιανουαρίου 1914,,"The “Photo-Drama of Creation” is first shown in New York on January 11, 1914"
+jehovahs_witnesses,"Οι Σπουδαστές της Γραφής υιοθέτησαν ένα νέο όνομα - Μάρτυρες του Ιεχωβά (Ησαΐας 43:10, 12) στο Κολόμπους, Οχάιο, 1931",include scripture,"The Bible Students adopted a new name – Jehovah’s Witnesses (Isaiah 43:10, 12) in Columbus, Ohio, 1931"
+gilead_school,Η Βιβλική Σχολή Γαλαάδ της Σκοπιάς ξεκίνησε τη Δευτέρα 1 Φεβρουαρίου 1943,,"Watchtower Bible School of Gilead began on Monday, February 1, 1943"
+new_world_translation1,"Η «Μετάφραση Νέου Κόσμου των Αγίων Γραφών» που κυκλοφόρησε στο Μάντσεστερ της Αγγλίας στις 18 Ιουνίου 1960, επαναφέρει το όνομα Ιεχωβά σε πολλά μέρη της Βίβλου",hightlight reintroduction of Jehovah’s name,"“New World Translation of the Holy Scriptures” released in Manchester, England on June 18, 1960, reintroduce the name Jehovah in many parts of the Bible"
+truth_book,Το βιβλίο «Η αλήθεια που οδηγεί στην αιώνια ζωή» κυκλοφόρησε το 1968,,The book “The Truth That Leads to Eternal Life” released 1968
+metropolitan,Έναρξη μητροπολιτικής μαρτυρίας το 2011,,Start of metropolitan witnessing in 2011
+jw_org,Έναρξη του JW.ORG με οδηγίες στη διακονία της βασιλείας Δεκέμβριος 2012,,Start of JW.ORG with instructions in kingdom ministry December 2012
+new_world_translation2,"Αναθεωρημένη «Μετάφραση Νέου Κόσμου των Αγίων Γραφών» που κυκλοφόρησε στην ετήσια συνάντηση 2013, βελτιστοποιημένη για ψηφιακή και διαδικτυακή χρήση",new edition with digital and online in mind,"Revised “New World Translation of the Holy Scriptures” released at annual meeting 2013, optimized to be used digitally and online"
+jw_broadcasting,Έναρξη εκπομπής του jw. τον Οκτώβριο του 2014,,Start of jw.broadcasting in October 2014
+meeting_workbook,"Νέα μορφή συνάντησης μεσοβδόμαδα με ""βιβλίο εργασίας συνάντησης"" από τον Ιανουάριο του 2016",,New format of midweek meeting with “meeting workbook” starting January 2016
+covid19,COVID-19,,Covid-19
+cold_war,Γεωπολιτική κατάσταση με την ένδειξη «Ψυχρός Πόλεμος» 1945-1991,,Geopolitical situation labeled “Cold War” 1945-1991
+timeline_created,"Αυτό το χρονοδιάγραμμα δημιουργήθηκε το 2023, το πιο ζεστό έτος στην ανθρώπινη ιστορία και τα τελευταία 125.000 χρόνια",,"This timeline was created in 2023, the hottest year in human history and the last 125,000 years"
+codex_sinaiticus,Συντάχθηκε ο Σιναϊτικός Κώδικας,,Codex Sinaiticus written
+codex_vaticanus,Γράφτηκε ο Κώδικας του Βατικανού,,Codex Vaticanus written
+leningrad_codex,Ο Κώδικας του Λένινγκραντ γράφτηκε στο Κάιρο το 1008 μ.Χ,,Leningrad Codex written in Cairo AD 1008
+john,Ο Ιωάννης γράφει «αποκάλυψη» ενώ ήταν εξόριστος στην Πάτμο 96-98 Κ.Χ.,,John writes “revelation” while exiled on Patmos 96-98 C.E.
+nicaea1,Α' Σύνοδος Νίκαιας,,First Council of Nicaea
+buddha,Ο Βούδας – Σιντάρτα Γκαουτάμα περ. 563-γ.483 π.Χ.,,The Buddha – Siddhartha Gautama c.563-c.483 B.C.E
+buddha2,Ο Βούδας εναλλακτικά γ. 480-400 π.Χ.,,Buddha alternatively c. 480-400 B.C.E.
+mohammed,Μωάμεθ γ. 570-632 Κ.Ε.,,Mohammed c. 570-632 C.E.
+confucius,Κομφούκιος c.551-c.479 B.C.E.,,Confucius c.551-c.479 B.C.E.
+hijrah,"Hijrah - Ταξίδι στη Μέκκα στη Μεδίνα, 16 Ιουλίου 622",,Hijrah - Journey Mecca to Medina 16 July 622
+moses_escape,"1553 π.Χ. Ο Μωυσής πρέπει να ξεφύγει από την Αίγυπτο - Έξοδος 2:15, Πράξεις 7:23",,"1553 B.C.E. Moses has to escape Egypt – Exodus 2:15, Acts 7:23"
+10plagues,1513 π.Χ. Η Αίγυπτος δέχεται 10 πληγές,,1513 B.C.E Egypt receives 10 plagues
+joseph_sold,Ο Ιωσήφ πουλήθηκε ως σκλάβος σε ηλικία 17 ετών - Γεν. 37:2,,Joseph sold as slave at the age of 17 – Gen 37:2
+infliction,400 χρόνια πρόκληση (Πράξεις 7:6) - Ισμαήλ 1913 π.Χ.,,400 year infliction (Acts 7:6) – Ishmael 1913 B.C.E
+Alexander,Μέγας Αλέξανδρος (Δανιήλ 11:3),,Alexander the Great (Daniel 11:3)
+persia,"Κύρος ο Μέγας, Καμβύσης Β', Δαρείος Α' 490 π.Χ., Ξέρξης Α' 480 π.Χ. (σύζυγος της Εσθήρ, Δανιήλ 11:2)",,"Cyrus the Great, Cambyses II, Darius I 490 BCE, Xerxes I 480 BCE (husband of Esther, Daniel 11:2)"
+persia2,Περσία,,Persia
+king_north,"Σέλευκος Α' Νικάτορας (v5) Συρία στον Αντίοχο Γ' (v10) και Σέλευκος Δ' (v18, 19) μέχρι τον Οκταβιανό (v20) και τον Τιβέριο (v21-24)",,"Seleucus I Nicator (v5) Syria to Antiochus III (v10) and Seleucus IV (v18, 19) down to Octavian (v20) and Tiberius (v21-24)"
+king_north1,Βασιλιάς του Βορρά,,King of the North
+king_south,"Πτολεμαίος I, II, III, IV (v11, 12), V (v15, 16) στη μάχη Actium 31 B.C.E.",,"Ptolemy I, II, III, IV (v11, 12), V (v15, 16) to the battle Actium 31 B.C.E."
+king_south1,Βασιλιάς του Νότου,,King of the South
+king_south2,"Βρετανική Αυτοκρατορία 1870, Αγγλοαμερικανική Παγκόσμια Δύναμη από το 1914",,"British empire 1870, Anglo-American World Power since 1914"
+king_south3,Βασιλιάς του Νότου,,King of the South
+king_north2,"Γερμανία με τον αυτοκράτορα Γουλιέλμο Α' 1871 (v28), 1914 (v29), 1935 (v30b), 1939 (v31a)",,"Germany with Emperor William I 1871 (v28), 1914 (v29), 1935 (v30b), 1939 (v31a)"
+king_north3,Βόρειος,,North
+king_north4,"Σοβιετική Ένωση 1945-1991 (Daniel 11:32-39, 40b, 41)",,"Soviet Union 1945-1991 (Daniel 11:32-39, 40b, 41)"
+king_north5,Ρωσία από το 2017 (w20 Μαΐου),,Russia since 2017 (w20 May)
+time_of_end,"Παρουσία του Χριστού, ολοκλήρωση του συστήματος πραγμάτων (Ματθαίος 24:3), οι έσχατες ημέρες (Β' Τιμόθεο 3:1)",scriptures written out,"Presence of Christ, Conclusion of the system of things (Matthew 24:3), the last days (2 Timothy 3:1)"
+time_of_end2,τελευταιες μερες,,last days
+suryavaman2,Ο βασιλιάς Suryavarman II χτίζει το Angkor Wat 1113-1150,,King Suryavarman II builds Angkor Wat 1113-1150
+notre-dame,Η Notre-Dame de Paris χτίστηκε το 1163-1260,,Notre-Dame de Paris built 1163-1260
+jehoiada,Ιεχοϊάδα,2 Kings 11:4,Jehoiada
+babel,χτισμένος πύργος της Βαβέλ,,tower of Babel built
+Haggai,Ο Χαγγαίος,,Haggai
+Zerubbabel,Ζοροβάβελ (Λουκάς 3:27),Luke 3:27,Zerubbabel (Luke 3:27)
+Babylon,"Δανιήλ 2:32, 36-38; 7:4",,"Daniel 2:32, 36-38; 7:4"
+Medopersia,"Δανιήλ 2:32, 39; 7:5",,"Daniel 2:32, 39; 7:5"
+Greece,"Δανιήλ 2:32, 39; 7:6",,"Daniel 2:32, 39; 7:6"
+Rome,"Δανιήλ 2:33, 40; 7:7",,"Daniel 2:33, 40; 7:7"
+Angloamerica,"Δανιήλ 2:33, 41-43",,"Daniel 2:33, 41-43"
+Babylon_c,Βαβυλών,,Babylon
+Medopersia_c,Μηδο-Περσία,,Medo-Persia
+Greece_c,Ελλάδα,,Greece
+Rome_c,Ρώμη,,Rome
+Angloamerica_c,Αγγλο-Αμερική,,Anglo-America
+infliction1,400 χρόνια πρόκληση,Acts 7:6,400 year infliction
+infliction2,Πράξεις 7:6,,Acts 7:6
+Jacob2,Ιάκωβος/,Jacob/Israel 1858-1711 – 147 years,Jacob/
+Israel,Ισραήλ,Genesis 35:10,Israel
+Sarah,Σάρα,"2008-1881 BCE – 127 years, Isaiah 51:2",Sarah
+Hagar,Άγαρ,Genesis 21:14,Hagar
+Haran,Χαράν,Genesis 11:26,Haran
+Reumah,Reumah,Concubine – 4 sons 22:24,Reumah
+Milcah,Milcah,8 sons (Bethuel and 7 more),Milcah
+Lot,Παρτίδα,Genesis 11:27,Lot
+Lots_wife,η γυναίκα του Λωτ,,Lot’s wife
+Lots_daughters,Κόρες του Λωτ,,Daughters of Lot
+Moab,Μωάβ (μεγαλύτερη κόρη),Genesis 19:37,Moab (older daughter)
+Ammon,Ben-ammi (Ammon),Genesis 19:38,Ben-ammi (Ammon)
+Bethuel,Bethuel,Genesis 22:23,Bethuel
+Rebekah,Ρεβέκκα,,Rebekah
+Laban,Laban,Genesis 24:29,Laban
+Leah,Η Λία,Genesis 35:23,Leah
+Rachel,Ραχήλ,Genesis 35:24,Rachel
+Bilhah,Bilhah,Genesis 35:25,Bilhah
+Zilpah,Ζίλπα,Genesis 35:26,Zilpah
+Reuben,Ρούμπεν,,Reuben
+Simeon,Συμεών,,Simeon
+Levi,Levi,Genesis 35:23,Levi
+Judah,Ιούδας,,Judah
+Issachar,Ισαχάρ,,Issachar
+Zebulun,Ζαβουλών,,Zebulun
+Dinah,Η Ντίνα,Genesis 34,Dinah
+Esau,Ησαύ/,,Esau/
+Edom,Edom,Genesis 36:1,Edom
+Ishmael,Ισμαήλ,Genesis 16:16,Ishmael
+Manasseh2,(Μανασσής,Genesis 41:50-52,(Manasseh
+Ephraim,και Εφραίμ),,and Ephraim)
+Benjamin,Βενιαμίν,,Benjamin
+Dan,Dan,Genesis 35:23,Dan
+Naphtali,Νεφτάλι,,Naphtali
+Gad,Βουκέντρο,,Gad
+Asher,Άσερ,,Asher
+Milcah1,"Ουζ, Μπουζ, Κεμουέλ,",Genesis 22:21,"Uz, Buz, Kemuel,"
+Milcah2,"Chesed, Hazo,",,"Chesed, Hazo,"
+Milcah3,"Pildash, Jidlaph",,"Pildash, Jidlaph"
+Tebah,Tebah,Genesis 22:24,Tebah
+Gaham,Gaham,,Gaham
+Tahash,Tahash,,Tahash
+Maacah,Maacah,,Maacah
+Mahalath,Μαχαλάθ/,"Genesis 28:8, 9",Mahalath/
+Basemath,Basemath,"Genesis36:3, 4",Basemath
+Reuel,Ρουέλ,"36:13, 17",Reuel
+Nahath,Ναχάθ,,Nahath
+Zerah,Ζεράχ,,Zerah
+Schammah,Schammah,,Schammah
+Mizzah,Mizzah,,Mizzah
+Adah,Άντα,"36:11, 12, 15, 16",Adah
+Eliphaz,Ελιφάς,,Eliphaz
+Teman,Teman,,Teman
+Omar,Ομάρ,,Omar
+Zepho,Ζεφό,,Zepho
+Kenaz,Kenaz,,Kenaz
+Korah,Κόρα,,Korah
+Gatam,Gatam,,Gatam
+Amalek,Αμαλέκ,,Amalek
+Oholibamah,Οχολιμπαμά,"36:14, 18",Oholibamah
+Jeush,Jeush,,Jeush
+Jalam,Τζαλάμ,,Jalam
+Nebaioth,Nebaioth,Genesis 25:13,Nebaioth
+Kedar,Kedar,,Kedar
+Adbeel,Adbeel,,Adbeel
+Mibsam,Μίμπσαμ,,Mibsam
+Mishma,Μίσμα,,Mishma
+Dumah,Dumah,,Dumah
+Massa,Μάσα,,Massa
+Hadad,Ο Χαντάντ,,Hadad
+Tema,Θέμα,,Tema
+Jetur,Jetur,,Jetur
+Naphish,Ναφίσας,,Naphish
+Kedemah,Kedemah,,Kedemah
+Babylon2, ,no text left and right – empty!, 
+terahfam,μέλη της οικογένειας του Τάρα,,members of Terah’s family
+rosetta,Πέτρα Rosetta 196 B.C.E.,,Rosetta stone 196 B.C.E.
+Herodotus,"Ο Ηρόδοτος γ. 484 – περ. 425 π.Χ., γράφει The Histories",Father of History,"Herodotus c. 484 – c. 425 BC, writes The Histories"
+Aristotle,Αριστοτέλης 384 – 322 π.Χ,"The First Teacher, The Philosopher",Aristotle 384 – 322 BC
+Ptolemy,Πτολεμαίος γ 100 – περ. 170 C.E.,,Ptolemy c 100 – c. 170 C.E.
+Pythagoras,Πυθαγόρας γ. 570 – περ. 495 π.Χ,,Pythagoras c. 570 – c. 495 BC
+Plato,Πλάτων γ. 427 – περ. 348 π.Χ,,Plato c. 427 – c. 348 BC
+Socrates,Σωκράτης γ. 470 – περ. 399 π.Χ,,Socrates c. 470 – c. 399 BC
+Josephus,Ιώσηπος γ. 37 – γ. 100 C.E.,,Josephus c. 37 – c. 100 C.E.
+Cicero,Κικέρων 106–43 π.Χ,"influence on Latin language, 3 Jan 106 BC – 7 Dec 43 BC",Cicero 106–43 BC
+lachish_letters,Γράμματα Lachish γ. 590 π.Χ.,,Lachish letters c. 590 B.C.E.
+lachish_reliefs,Ανάγλυφα Lachish γ. 681 π.Χ.,,Lachish reliefs c. 681 B.C.E.
+mesha_stele,Mesha Stele (Μωαβιτική πέτρα) γ. 840 π.Χ.,,Mesha Stele (Moabite stone) c. 840 B.C.E.
+gilgamesh,Ο Γκιλγκαμές και ο Αγάς 💇💆💄💀💀💂,,Gilgamesh and Aga 𒇽𒆥𒄄𒀀𒀝𒂵
+epic_gilgamesh,Έπος του Γκιλγκαμές (Sîn-lēqi-unninni),,Epic of Gilgamesh (Sîn-lēqi-unninni)
+oxyrhynchus,Πάπυροι Οξύρρυγχος,,Oxyrhynchus Papyri
+p52,Πάπυρος P52,,Papyrus P52
+daniel2_shift,0,Start 4.2,0
+daniel2_1,Βασιλιάς Ναβουχοδονόσορ,607 BCE,King Nebuchadnezzar
+daniel2_2,καταστρέφει την Ιερουσαλήμ,,destroys Jerusalem
+daniel2_3,Κατακτά τη Βαβυλώνα,539 BCE,Conquers Babylon
+daniel2_4,Τα διατάγματα του Κύρου επιστρέφουν,537 BCE,Cyrus decrees return
+daniel2_5,των Εβραίων στην Ιερουσαλήμ,,of Jews to Jerusalem
+daniel2_6,Μέγας Αλέξανδρος,331 BCE,Alexander the Great
+daniel2_7,κατακτά την Περσία,,conquers Persia
+daniel2_8,Κυβερνά το Ισραήλ,63 BCE,Rules over Israel
+daniel2_9,Καταστρέφει την Ιερουσαλήμ,70 CE,Destroys Jerusalem
+daniel2_10,"Κατά τη διάρκεια του Α' Παγκοσμίου Πολέμου,",1914-1918 CE,"During World War I,"
+daniel2_11,Αγγλοαμερικανική παγκόσμια δύναμη,,Anglo-American World Power
+daniel2_12,έρχεται σε ύπαρξη,End 4.2,comes into being
+qing-dynasty,1636-1912,,1636-1912
+qing-dynasty_c,Δυναστεία Τσινγκ,1636-1912,Qing dynasty
+ming-dynasty,1368-1644,,1368-1644
+ming-dynasty_c,Δυναστεία Μινγκ στην αυτοκρατορική Κίνα,1368-1644,Ming dynasty in imperial China
+yuan-dynasty,1271-1368,,1271-1368
+southern-song,1127-1279,,1127-1279
+northern-song,960-1127,,960-1127
+western-xia,1038-1227,,1038-1227
+yuan-dynasty_c,Γιουάν,1271-1368,Yuan
+southern-song_c,Νότιο τραγούδι,1127-1279,Southern Song
+northern-song_c,Βόρειο Τραγούδι,960-1127,Northern Song
+western-xia_c,Δυτική Xia,1038-1227,Western Xia
+Copernicus,Νικόλαος Κοπέρνικος,,Nicolaus Copernicus
+Galileo,Galileo Galilei,Galileo di Vincenzo Bonaiuti de' Galilei,Galileo Galilei
+Newton,Ισαάκ Νιούτον,,Isaac Newton
+gregorian,Γρηγοριανό ημερολόγιο 1582,,Gregorian calendar 1582
+shang-dynasty,ντο. 1600-1046 π.Χ,,c. 1600-1046 BC
+western-zhou,ντο. 1046-771 π.Χ,,c. 1046-771 BC
+eastern-zhou,770-256 π.Χ,,770-256 BC
+qin-dynasty,Τσιν 221-207 π.Χ,,Qin 221-207 BC
+western-han,207 π.Χ. – 9 μ.Χ,,207 BC – 9 CE
+eastern-han,25-220 Κ.Χ,,25-220 CE
+three-kingdoms,Τρία βασίλεια 220-280 μ.Χ,,Three kingdoms 220-280 CE
+sixteen-kingdoms,Δεκαέξι βασίλεια 304-439 Κ.Χ,,Sixteen kingdoms 304-439 CE
+northern-dynasties,368-581 Κ.Χ,,368-581 CE
+southern-dynasties,420-589 Κ.Χ,,420-589 CE
+tang-dynasty1, ,, 
+tang-dynasty2,"618-690, 705-907",,"618-690, 705-907"
+wu-zhou,690-705 Γου Ζου,,690-705 Wu Zhou
+shang-dynasty_c,Δυναστεία Σανγκ,c. 1600-1046 BC,Shang Dynasty
+western-zhou_c,Δυτικό Ζου,c. 1046-771 BC,Western Zhou
+eastern-zhou_c,Ανατολικό Ζου,770-256 BC,Eastern Zhou
+western-han_c,Δυτικό Χαν,207 BC – 9 CE,Western Han
+eastern-han_c,Ανατολικό Χαν,25-220 CE,Eastern Han
+three-kingdoms_c,Κίνα,Three kingdoms 220-280 CE,China
+sixteen-kingdoms_c,Κίνα,Sixteen kingdoms 304-439 CE,China
+northern-dynasties_c,Βόρειες Δυναστείες,368-581 CE,Northern Dynasties
+southern-dynasties_c,Νότιες Δυναστείες,420-589 CE,Southern Dynasties
+tang-dynasty1_c,Ισχυρή γεύση,,Tang
+tang-dynasty2_c,Δυναστεία Τανγκ,"618-690, 705-907",Tang Dynasty
+xia-dynasty,Δυναστεία Xia στην Κίνα γ. 2070 – γ. 1600 π.Χ,,Xia dynasty in China c. 2070 – c. 1600 BC
+gonghe,Αντιβασιλεία Γκονγκέ 841-828 π.Χ,,Gonghe Regency 841-828 BC
+Ashoka,Ο Ashoka (περ. 304-232 π.Χ.) προωθεί τον Βουδισμό,,Ashoka (c. 304-232 BC) promotes Buddhism
+siloam-tunnel,Ο Εζεκίας επεκτείνει τη σήραγγα του Σιλωάμ,c. 742-732 BC,Hezekiah extends Siloam tunnel
+Angloamerica2,"Το Αγγλοαμερικανικό συμβολίζεται με τα πόδια από σίδηρο αναμεμειγμένα με πηλό στην προφητεία στο Δανιήλ 2:33, 41-43",,"Anglo-American is symbolized by the feet of iron mixed with clay in the prophecy in Daniel 2:33, 41-43"
+Manetho,Ο Μανέθος γράφει Aegyptiaca,,Manetho writes Aegyptiaca
+tribulation,"Η Μεγάλη Θλίψη (Μάρκος 13:19· Δανιήλ 12:1· Ματθαίος 24:21, 22)",,"The Great Tribulation (Mark 13:19; Daniel 12:1; Matt 24:21, 22)"
+destruction_babylon,"Καταστροφή της Βαβυλώνας της Μεγάλης (Αποκάλυψη 17:3, 15-18· 18:9, 10)",beginning of great tribulation (GT),"Destruction of Babylon the Great (Revelation 17:3, 15-18; 18:9, 10)"
+gog_of_magog,"Επίθεση του Γωγ του Μαγώγ (Ιεζεκιήλ 38:1, 2, 9-12, 18-23)",end of GT,"Attack of Gog of Magog (Ezekiel 38:1, 2, 9-12, 18-23)"
+sheep_goat,"Οι κάτοικοι της γης θα κριθούν, χωρίζοντας πρόβατα και κατσίκια (Ματθαίος 25:31-33)",end of GT,"Earth’s inhabitants will be judged, separating sheep and goats (Matthew 25:31-33)"
+annointed,Συγκέντρωση ηγεμόνων της Βασιλείας (Ματθαίος 24:31· ​​1 Κορινθίους 15:50-53· 1 Θεσσαλονικείς 4:15-17),end of GT,Gathering of Kingdom rulers (Matthew 24:31; 1 Corinthians 15:50-53; 1 Thessalonians 4:15-17)
+armageddon,"Μάχη του Αρμαγεδδώνα (Αποκάλυψη 16:14, 16· Ησαΐας 13:9· 2 Πέτρου 3:12)",end of system of things,"Battle of Armageddon (Revelation 16:14, 16; Isaiah 13:9; 2 Peter 3:12)"
+millenium,"Η Βασιλεία του Θεού αρχίζει τη 1000χρονη βασιλεία της (Αποκάλυψη 5:9, 10· 20:4, 6)",,"God’s Kingdom begins its 1000-year reign (Revelation 5:9, 10; 20:4, 6)"
+great_crowd,"Ένα μεγάλο πλήθος επιζεί από τον Αρμαγεδδώνα (Αποκάλυψη 7:9, 14· Ψαλμός 37:9-11)",,"A great crowd survives Armageddon (Revelation 7:9, 14; Psalm 37:9-11)"
+world_population,Ο παγκόσμιος πληθυσμός σε δισεκατομμύρια τα τελευταία 2000 χρόνια,,World population in billions in the last 2000 years
+607BCE,607 π.Χ.,accommodate for language,607 B.C.E.
+539BCE,539 π.Χ.,systems in style:,539 B.C.E.
+537BCE,537 π.Χ.,>>year 537 before time<<,537 B.C.E.
+331BCE,331 π.Χ.,so they need a word,331 B.C.E.
+63BCE,63 π.Χ.,prior to the year,63 B.C.E.
+70CE,70 Κ.Ε.,and something,70 C.E.
+1914CE,1914-1918 Κ.Ε.,after the year,1914-1918 C.E.
+khmer_empire,804 – 1431 Κ.Ε.,,804 – 1431 C.E.
+khmer_empire_c,Αυτοκρατορία Χμερ - Περίοδος Ανγκόρ,,Khmer Empire - Angkor period
+byzantine_empire,330-1453 Κ.Ε.,,330-1453 C.E.
+byzantine_empire_c,Βυζαντινή Αυτοκρατορία,,Byzantine Empire
+ottoman_empire,1299 – 1922 Κ.Ε.,,1299 – 1922 C.E.
+ottoman_empire_c,Οθωμανική Αυτοκρατορία,,Ottoman Empire
+holy_roman_empire,800 – 924 Κ.Ε.,,800 – 924 C.E.
+holy_roman_empire2,862 – 1806 Κ.Ε.,,862 – 1806 C.E.
+holy_roman_empire_c,Αγία Ρωμαϊκή Αυτοκρατορία – μετά το 1512 Αγία Ρωμαϊκή Αυτοκρατορία του Γερμανικού Έθνους,,Holy Roman Empire – after 1512 Holy Roman Empire of the German Nation
+mongol_empire,Μογγολική Αυτοκρατορία 1206 – 1294 Κ.Χ.,,Mongol Empire 1206 – 1294 C.E.
+Genghis,Τζένγκις Χαν,,Genghis Khan
+maya_classic,250-950,,250-950
+maya_classic_c,Πολιτισμός των Μάγια - κλασική περίοδος,,Maya civilization – classic period
+maya_postclassic,950-1539,,950-1539
+maya_postclassic_c,Πολιτισμός των Μάγια – μετακλασική περίοδος,,Maya civilization – postclassic period
+inca_empire,1438 – 1533 Κ.Ε.,,1438 – 1533 C.E.
+inca_empire_c,αυτοκρατορία των Ίνκας,,Inca empire
+gupta_empire,319 – 550 Κ.Ε.,,319 – 550 C.E.
+gupta_empire_c,Αυτοκρατορία Γκούπτα,,Gupta empire
+Teotihuacan,"μεγαλύτερη πόλη της Αμερικής, χτίζονται πυραμίδες γ. 200 C.E.",,"largest city in the Americas, pyramids build c. 200 C.E."
+Teotihuacan_c,Teotihuacan,,Teotihuacan
+Dionysius_Exiguus,"Διονύσιος Εξίγουος, εφευρέτης του Anno Domini",,"Dionysius Exiguus, inventor of Anno Domini"
+Umayyad,661 – 750 Κ.Ε.,,661 – 750 C.E.
+Umayyad_c,Ομαγιάντ,,Umayyad
+Abbasid,750 – 1258 Κ.Ε.,,750 – 1258 C.E.
+Abbasid_c,Χαλιφάτο των Αββασιδών,,Abbasid Caliphate
+Mamluk,1250 – 1517 Κ.Ε.,,1250 – 1517 C.E.
+Mamluk_c,Σουλτανάτο των Μαμελούκων,,Mamluk Sultanate
+ur3,Δυναστεία Ur III 💋💀💆,,Ur III dynasty 𒋀𒀕𒆠
+hammurabi,Χαμουραμπί 💄💄💈💊💁,,Hammurabi 𒄩𒄠𒈬𒊏𒁉
+Al-Khwarizmi,Ο al-Khwarizmi γράφει το Al-Jabr (Άλγεβρα),,al-Khwarizmi writes Al-Jabr (Algebra)
+al-azhar,Το Πανεπιστήμιο Al-Azhar ιδρύθηκε στο Κάιρο,,Al-Azhar University is established in Cairo
+Ibn-Sina,Ibn Sina ή Avicenna,,Ibn Sina or Avicenna
+Al-Ghazali,Αλ-Γαζάλι,,Al-Ghazali
