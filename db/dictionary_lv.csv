@@ -1,0 +1,447 @@
+key,text,notes,english
+version,4.7,,4.7
+pdf_title,Vizualizēta 6000 gadu cilvēces vēsture,,6000 years human history visualized
+pdf_subject,Cilvēces laika skala,,Timeline of humankind
+BCE,B.C.E.,,B.C.E.
+CE,C.E.,,C.E.
+year,gadā,"timespan, age (Adam was 130 years old when Shem was born)",year
+years,gadiem,,years
+years_age,gadiem,"years when used as age for a person (different word than years in some languages), like he is 23 years old ",years
+age_kings, ,"if the word ""year"" appears after the numeral, like ""at the age of 35 years""", 
+month,mēnesis,,month
+months,mēnešus,,months
+day,diena,,day
+days,dienas,,days
+to,uz,,to
+people,cilvēkiem,,people
+judges,tiesneši,,judges
+prophets,pravieši,,prophets
+kings,karaļi,,kings
+periods,periodi,,periods
+events,notikumiem,,events
+objects,priekšmetus vai priekšmetus,,objects or items
+Deluge,Plūdi,,Deluge
+Adam,Ādams,Luke 3:38,Adam
+Seth,Seth,,Seth
+Enosh,Enosh,,Enosh
+Kenan,Kenans,,Kenan
+Mahalalel,Mahalalel,,Mahalalel
+Jared,Džareds,,Jared
+Enoch,Ēnohs,,Enoch
+Methuselah,Metuzāls,Luke 3:37,Methuselah
+Lamech,Lamech,,Lamech
+Noah,Noa,,Noah
+Shem,Shem,,Shem
+Arpachshad,Arpačšads,Luke 3:36,Arpachshad
+Shelah,Šela,,Shelah
+Eber,Eber,,Eber
+Peleg,Peleg,,Peleg
+Reu,Reu,,Reu
+Serug,Serug,Luke 3:35,Serug
+Nahor,Nahor,Genesis 11:24 ,Nahor
+Terah,Terah,,Terah
+Abraham,Ābrahāms,,Abraham
+Isaac,Īzaks,,Isaac
+Jacob,Jēkabs,Luke 3:34,Jacob
+Joseph,Jāzeps,Genesis 37 ,Joseph
+Moses,Mozus,,Moses
+Othniel,Otniels,Judges 3:9-11,Othniel
+Ehud,Ehud,Judges 3:15-18,Ehud
+Shamgar,Shamgar,Judges 3:31,Shamgar
+Barak,Baraks,Judges 4:6,Barak
+Gideon,Gideons,Judges 7:1,Gideon
+Tola,Tola,Judges 10:1,Tola
+Jair,Jair,Judges 10:3,Jair
+Jephthah,Jefta,Judges 11:1,Jephthah
+Ibzan,Ibzāna,Judges 12:8,Ibzan
+Elon,Īlons,Judges 12:11,Elon
+Abdon,Abdon,Judges 12:13,Abdon
+Samson,Simsons,Judges 13:24,Samson
+Samuel,Samuels,1 Samuel 1:20,Samuel
+Saul,Sauls,1 Samuel 9:2,Saul
+David,Deivids,1 Samuel 16:13,David
+Solomon,Salamans,1 Kings 2:1,Solomon
+Rehoboam,Rehabeams,first king of southern kingdom of Juda,Rehoboam
+Abijah,Abija (Abijam),"3 years, also Abijam",Abijah (Abijam)
+Asa,Kā,,Asa
+Jehoshaphat,Jošafāts,bce_float = -y+1 - (12-m)/12 – (31-d)/360,Jehoshaphat
+Jehoram2,Jehorams,,Jehoram
+Ahaziah,Ahazija,,Ahaziah
+Athaliah,Karaliene Atalia,Queen Athaliah,Queen Athaliah
+Jehoash,Joašs,,Jehoash
+Amaziah,Amazija,,Amaziah
+Uzziah,Usija (Azaria),also Azariah,Uzziah (Azariah)
+Jotham,Džotams,,Jotham
+Ahaz,Ahaz,,Ahaz
+Hezekiah,Hiskija,,Hezekiah
+Manasseh,Manase,,Manasseh
+Amon,Amon,,Amon
+Josiah,Džosija,,Josiah
+Jehoahaz,Joahass,Only 3 months,Jehoahaz
+Jehoiakim,Jojakims,,Jehoiakim
+Jehoiachin,Jojahins,Only 3 months 10 days,Jehoiachin
+Zedekiah,Cedekija,,Zedekiah
+Jeroboam,Jerobeāms,first king of northern 10-tribe kingdom,Jeroboam
+Nadab,Nadabs,less than 2,Nadab
+Baasha,Baasha,,Baasha
+Elah,Elah,,Elah
+Zimri,Zimri,Only 7 days in ca. 751 BCE,Zimri
+OmriTibni,Omri un Tibni kopā,4 years Omri and Tibni,Omri and Tibni together
+Omri,Omri (viens),from 947 Omri alone,Omri (alone)
+Ahab,Ahab,,Ahab
+Jehoram,Jehorams,,Jehoram
+Jehu,Jehu,,Jehu
+Jeoahaz,Jeoahaz,,Jeoahaz
+JeoahazJehoash,Joahass un Joass,For 3 years Jeoahaz and Jeoash reigned together,Jeoahaz and Jehoash
+Jehoash2,Joass (viens),Jehoash (alone),Jehoash (alone)
+Jeroboam2,Jerobeāms II,,Jeroboam II
+Zechariah,Cakarija,"reign only recorded 6 months, probably only established 792 BCE",Zechariah
+Schallum,Schallum,only one month,Schallum
+Menahem,Menahem,,Menahem
+Pekahiah,Pekahiah,,Pekahiah
+Pekah,Pekah,,Pekah
+Hoshea,Hoshea,9 years from c. 748,Hoshea
+Elijah,Elija,,Elijah
+Elisha,Elīsa,,Elisha
+Jonah,Jona,,Jonah
+Amos,Amos,,Amos
+Joel,Džoels,,Joel
+Hosea,Hosea,,Hosea
+Isaiah,Jesaja,,Isaiah
+Micah,Micah,,Micah
+Zephaniah,Cefanja,,Zephaniah
+Nahum,Nahum,,Nahum
+Jeremiah,Jeremija,,Jeremiah
+Habakuk,Habakuks,,Habakuk
+Daniel,Daniels,,Daniel
+Ezekiel,Ecēhiēls,,Ezekiel
+Obadiah,Obadja,,Obadiah
+Malachi,malači,,Malachi
+Ruth,Rūta,,Ruth
+Ezra,Ezra,,Ezra
+Nehemiah,Nehemija,,Nehemiah
+Esther,Estere,,Esther
+Job,Darbs,,Job
+moses2,No 1593. līdz 1473. gadam p.m.ē. – 120 gadi,,1593 to 1473 B.C.E. – 120 years
+moses3,Mozus,,Moses
+wilderness,Izraēla tuksnesī no 1513. līdz 1473. gadam p.m.ē. – 40 gadi,,Israel in the wilderness 1513 to 1473 B.C.E. – 40 years
+timespan_judges,No 1473. līdz 1117. gadam p.m.ē. – 356 gadi,,1473 to 1117 B.C.E. – 356 years
+timespan_judges2,Tiesnešu laiks,,Time of the judges
+temple1,Nisana 1513. g. p.m.ē. līdz Ziv 1034. g. p.m.ē.,,Nisan 1513 B.C.E. to Ziv 1034 B.C.E.
+temple2,479 gadi līdz tempļa celtniecībai – 1. Ķēniņu 6:1,1034 BCE,479 years until the temple construction – 1 Kings 6:1
+69weeks,Jēzus kristīja mūsu ēras 29. gada rudenī.,,Jesus baptized autumn 29 C.E.
+69weeks2,69 nedēļas līdz Mesijam – Daniēla 9:25,,69 weeks to the Messiah – Daniel 9:25
+jesus_service,"Jēzus kalpoja 3,5 gadus, tika izpildīts nāvessods 14. gadā, 33. m.ē.",,"3.5 years of Jesus service, executed Nisan 14th, 33 C.E."
+jesus_life,Jēzus dzimis 2. p.m.ē.,,Jesus born 2 B.C.E.
+exile,607. līdz 537. p.m.ē. – 70 gadi (Jeremija 25:11),,607 to 537 B.C.E. – 70 years (Jeremiah 25:11)
+exile2,trimdā,,exile
+7times,Atklāsmes 12:9,,Revelation 12:9
+7times2,7 reizes — 2520 gadi līdz Mesiāniskajai Valstībai 1914. g. p.m.ē. (Daniēls 4:23),,7 times – 2520 years to the Messianic Kingdom 1914 C.E. (Daniel 4:23)
+ww1,Pirmais pasaules karš – 1914–1918 p.m.ē.,,World War I – 1914–1918 C.E.
+ww2,Otrais pasaules karš – 1939–1945 p.m.ē.,,World War II – 1939–1945 C.E.
+30_year_war,Trīsdesmit gadu karš Eiropā 1618-1648,,Thirty Years' War in Europe 1618-1648
+joshua,110 gadi,,110 years
+joshua2,Džošua,,Joshua
+caleb,vairāk nekā 85 gadus,,more than 85 years
+caleb2,Kalebs,,Caleb
+missionary1,"Pāvila pirmais misionāra ceļojums, c. 47-48 p.m.ē. kopā ar Barnabu un Jāni Marku",,"First Missionary Journey of Paul, c. 47-48 C.E. with Barnabas and John Mark"
+circumcision,"Apgraizīšanas jautājums Antiohijā, konference Jeruzalemē c. 49 C.E.",,"Circumcision issue at Antioch, conference in Jerusalem c. 49 C.E."
+missionary2,Otrais misionāru ceļojums c. 49.–52. g. p.m.ē. ar Silasu (Silvanus),,Second Missionary Journey c. 49-52 C.E with Silas (Silvanus)
+missionary3,Trešais misionāru ceļojums c. 52-56 p.m.ē.,,Third Missionary Journey c. 52-56 C.E.
+caesarea,Pāvils apcietinājumā Cēzarijā c. 56-58 p.m.ē.,,Paul in custody in Caesarea c. 56-58 C.E.
+rome1,Pāvila pirmais ieslodzījums Romā c. 59.–61. g. p.m.ē.,,Paul’s first imprisonment in Rome c. 59-61 C.E.
+rome2,"Pāvila otrais ieslodzījums Romā c. 65. gads, rakstīts 2. Timotejam, Pāvils izpildīts",,"Paul’s second imprisonment in Rome c. 65 CE, 2 Timothy written, Paul executed"
+Julius,Jūlijs,,Julius
+Augustus,Augusts,Luke 2:1,Augustus
+Tiberius,Tibērijs,Luke 3:1,Tiberius
+Caligula,Kaligula,,Caligula
+Claudius,Klaudijs,Acts 11:28,Claudius
+Nero,Nero,,Nero
+Galba-Otho-Vitellius,"Galba, Oto un Vitellius (Četru imperatoru gads)",,"Galba, Otho and Vitellius (Year of the Four Emperors)"
+Vespasian,Vespasiāns,,Vespasian
+event_exodus,Izceļošana no Ēģiptes 14. nisana 1513. gadā p.m.ē.,,"Exodus from Egypt on Nisan 14th, 1513 B.C.E."
+event_division_kingdom,Izraēlas sadalīšana 997. g. p.m.ē,,Division of Israel 997 BCE
+event_destruction_samaria,Samarijas iznīcināšana 740. g. p.m.ē. ar Asīriju,Destruction of Samaria 740 B.C.E. by Assyria,Destruction of Samaria 740 B.C.E. by Assyria
+event_destruction_samaria2,740. gads p.m.ē. ar Asīriju,was shortened here for 2 lines,740 B.C.E. by Assyria
+event_destruction_jerusalem1,"Jeruzalemes iznīcināšana 607. g. p.m.ē. Bābele, 390 gadus pēc valstības sadalīšanas (Ecēhiēla 4:5)",,"Destruction of Jerusalem 607 B.C.E. by Babylon, 390 years after the division of the kingdom (Ezekiel 4:5)"
+event_temple_rebuilt,Templis Jeruzalemē tika pārbūvēts 515. g. p.m.ē.,,Temple in Jerusalem rebuilt 515 B.C.E.
+event_jerusalem_rebuilt,Jeruzalemes mūris tika pārbūvēts 455. g. p.m.ē.,,Jerusalem wall rebuilt 455 B.C.E.
+event_destruction_jerusalem2,Tita vadībā Roma iznīcināja Jeruzalemi 70. g. p.m.ē,,Destruction of Jerusalem 70 C.E. by Rome under Titus
+event_1914,"Tautu laika beigas (Lūkas 21:24), Dieva valstība sāk valdīt debesīs 1914. gadā p.m.ē.",include scripture Luke 21:24,"End of the time of the nations (Luke 21:24), God’s kingdom starts to rule in heaven 1914 C.E. "
+became_king,vecumā kļuva par karali,,became king at age
+vulgate,Hieronīms pabeidza Vulgātu (Bībeles tulkojums latīņu valodā) c. 405. gads p.m.ē.,,Vulgate completed by Jerome (Latin translation of the bible) c. 405 C.E.
+gutenberg,Gūtenberga Bībele iespiesta 1455. gadā,,Gutenberg bible printed 1455
+erasmus,"Kristiešu grieķu rakstu grieķu teksts, ko publicējis Deziderius Erasms no Roterdamas 1516.",,Greek text of Christian Greek Scriptures published by Desiderius Erasmus of Rotterdam 1516
+luther,Lutera Bībeles tulkojums 1522. gada septembrī,,Luther Bible translation in September 1522
+tyndale,"Bībeles tulkojums angļu valodā, ko veica Tyndale 1536",,English Bible translation by Tyndale 1536
+king_james,Karaļa Džeimsa Bībele 1611,,King James Bible 1611
+69weeks3,"Jēzus sāk savu kalpošanu mūsu ēras 29. gadā (Lūkas 3:1, 21)",,"Jesus starts his service 29 CE (Luke 3:1, 21)"
+ransom,"nedēļas vidus ""upuris, lai pārtrauktu"" Daniēla 9:27",,middle of week “sacrifice to cease” Daniel 9:27
+cornelius,Kornēlijs kristījās 70 nedēļu beigās (Daniēls 9:24) 36. gadā p.m.ē.,,Cornelius baptized at the end of 70 weeks (Daniel 9:24) in 36 C.E.
+columbus,pirmskolumbijas perioda beigas Amerikā 1492,,end of the pre-columbian period in the Americas 1492
+declaration_independence,13 koloniju neatkarības pasludināšana Amerikā 1776,,declaration of independence of 13 colonies in America 1776
+tischendorf,Tišendorfs 1844. gadā atklāj Codex Sinaiticus no 4. gadsimta,,Tischendorf discovers the Codex Sinaiticus from the 4th century in 1844
+dead_sea_scrolls,Uzrakstīti Nāves jūras ruļļi,,Dead Sea Scrolls written
+septuagint,Septuaginta LXX tulkota,,Septuagint LXX translated
+watchtower,Pirmais izdevums “Cion’s Watch Tower and Herald of Christ’s Presence” tiek izdots 1879. gadā.,,The first issue of “Zion’s Watch Tower and Herald of Christ’s Presence” is published in 1879
+photodrama,“Radīšanas fotodrāma” pirmo reizi tiek izrādīta Ņujorkā 1914. gada 11. janvārī.,,"The “Photo-Drama of Creation” is first shown in New York on January 11, 1914"
+jehovahs_witnesses,"Bībeles pētnieki pieņēma jaunu nosaukumu — Jehovas liecinieki (Jesajas 43:10, 12) Kolumbusā, Ohaio štatā, 1931.",include scripture,"The Bible Students adopted a new name – Jehovah’s Witnesses (Isaiah 43:10, 12) in Columbus, Ohio, 1931"
+gilead_school,"Sargtorņa Bībeles Gileādas skola sākās pirmdien, 1943. gada 1. februārī",,"Watchtower Bible School of Gilead began on Monday, February 1, 1943"
+new_world_translation1,"“Svēto Rakstu Jaunās pasaules tulkojums”, kas tika izdots Mančestrā, Anglijā 1960. gada 18. jūnijā, daudzās Bībeles daļās no jauna ievada vārdu Jehova.",hightlight reintroduction of Jehovah’s name,"“New World Translation of the Holy Scriptures” released in Manchester, England on June 18, 1960, reintroduce the name Jehovah in many parts of the Bible"
+truth_book,"Grāmata “Patiesība, kas ved uz mūžīgo dzīvi” tika izdota 1968",,The book “The Truth That Leads to Eternal Life” released 1968
+metropolitan,Lielpilsētas sludināšanas sākums 2011. gadā,,Start of metropolitan witnessing in 2011
+jw_org,JW.ORG sākums ar norādījumiem valstības kalpošanā 2012. gada decembrī,,Start of JW.ORG with instructions in kingdom ministry December 2012
+new_world_translation2,"Pārskatītais “Svēto Rakstu Jaunās pasaules tulkojums”, kas izdots 2013. gada ikgadējā sanāksmē, optimizēts lietošanai digitāli un tiešsaistē",new edition with digital and online in mind,"Revised “New World Translation of the Holy Scriptures” released at annual meeting 2013, optimized to be used digitally and online"
+jw_broadcasting,Jw.broadcasting sākums 2014. gada oktobrī,,Start of jw.broadcasting in October 2014
+meeting_workbook,"Jauns nedēļas vidus sanāksmes formāts ar “sanāksmju darbgrāmatu”, sākot no 2016. gada janvāra",,New format of midweek meeting with “meeting workbook” starting January 2016
+covid19,Covid 19,,Covid-19
+cold_war,"Ģeopolitiskā situācija ar apzīmējumu ""aukstais karš"" 1945-1991",,Geopolitical situation labeled “Cold War” 1945-1991
+timeline_created,"Šī laika skala tika izveidota 2023. gadā, kas ir karstākais gads cilvēces vēsturē un pēdējos 125 000 gados.",,"This timeline was created in 2023, the hottest year in human history and the last 125,000 years"
+codex_sinaiticus,Uzrakstīts Codex Sinaiticus,,Codex Sinaiticus written
+codex_vaticanus,Uzrakstīts Codex Vaticanus,,Codex Vaticanus written
+leningrad_codex,"Ļeņingradas kodekss, kas rakstīts Kairā AD 1008",,Leningrad Codex written in Cairo AD 1008
+john,"Jānis raksta “atklāsmi”, būdams izsūtījumā Patmosā 96.–98. gadā p.m.ē.",,John writes “revelation” while exiled on Patmos 96-98 C.E.
+nicaea1,Pirmais Nīkajas koncils,,First Council of Nicaea
+buddha,Buda — Sidharta Gautama ap 563. — ap 483. gadu p.m.ē.,,The Buddha – Siddhartha Gautama c.563-c.483 B.C.E
+buddha2,Buda vai c. 480-400 p.m.ē.,,Buddha alternatively c. 480-400 B.C.E.
+mohammed,Muhameds c. 570.–632. g. p.m.ē.,,Mohammed c. 570-632 C.E.
+confucius,Konfūcijs ap 551.–479. g. p.m.ē.,,Confucius c.551-c.479 B.C.E.
+hijrah,Hijra — ceļojums pa Meku uz Medīnu 622. gada 16. jūlijā,,Hijrah - Journey Mecca to Medina 16 July 622
+moses_escape,"1553. gads p.m.ē. Mozum jābēg no Ēģiptes – 2. Mozus 2:15, Apustuļu darbi 7:23",,"1553 B.C.E. Moses has to escape Egypt – Exodus 2:15, Acts 7:23"
+10plagues,1513. gads p.m.ē. Ēģipte piemeklē 10 mērus,,1513 B.C.E Egypt receives 10 plagues
+joseph_sold,Jāzeps tika pārdots kā vergs 17 gadu vecumā (1. Mozus 37:2).,,Joseph sold as slave at the age of 17 – Gen 37:2
+infliction,400 gadu kaitējums (Ap.d.7:6) — Ismaēls 1913. g. p.m.ē.,,400 year infliction (Acts 7:6) – Ishmael 1913 B.C.E
+Alexander,Aleksandrs Lielais (Daniēls 11:3),,Alexander the Great (Daniel 11:3)
+persia,"Kīrs Lielais, Kambiss II, Dārijs I 490. g. p.m.ē., Kserkss I 480. g. p.m.ē. (Esteres vīrs, Daniēla 11:2)",,"Cyrus the Great, Cambyses II, Darius I 490 BCE, Xerxes I 480 BCE (husband of Esther, Daniel 11:2)"
+persia2,Persija,,Persia
+king_north,"Seleuks I Nikator (v5) Sīrija līdz Antioham III (v10) un Seleucus IV (v18, 19) līdz Oktaviānam (v20) un Tiberius (v21-24)",,"Seleucus I Nicator (v5) Syria to Antiochus III (v10) and Seleucus IV (v18, 19) down to Octavian (v20) and Tiberius (v21-24)"
+king_north1,Ziemeļu karalis,,King of the North
+king_south,"Ptolemajs I, II, III, IV (v11, 12), V (v15, 16) uz kauju Actium 31 B.C.E.",,"Ptolemy I, II, III, IV (v11, 12), V (v15, 16) to the battle Actium 31 B.C.E."
+king_south1,Dienvidu karalis,,King of the South
+king_south2,"Britu impērija 1870. gadā, angloamerikāņu pasaules vara kopš 1914. gada",,"British empire 1870, Anglo-American World Power since 1914"
+king_south3,Dienvidu karalis,,King of the South
+king_north2,"Vācija ar imperatoru Viljamu I 1871 (v28), 1914 (v29), 1935 (v30b), 1939 (v31a)",,"Germany with Emperor William I 1871 (v28), 1914 (v29), 1935 (v30b), 1939 (v31a)"
+king_north3,Ziemeļi,,North
+king_north4,"Padomju Savienība 1945-1991 (Daniel 11:32-39, 40b, 41)",,"Soviet Union 1945-1991 (Daniel 11:32-39, 40b, 41)"
+king_north5,Krievija kopš 2017. gada (20. maijā),,Russia since 2017 (w20 May)
+time_of_end,"Kristus klātbūtne, lietu sistēmas noslēgums (Mateja 24:3), pēdējās dienas (2. Timotejam 3:1)",scriptures written out,"Presence of Christ, Conclusion of the system of things (Matthew 24:3), the last days (2 Timothy 3:1)"
+time_of_end2,pēdējās dienas,,last days
+suryavaman2,Karalis Surjavarmans II būvē Angkor Wat 1113-1150,,King Suryavarman II builds Angkor Wat 1113-1150
+notre-dame,Parīzes Dievmātes katedrāle celta 1163-1260,,Notre-Dame de Paris built 1163-1260
+jehoiada,Jehoiada,2 Kings 11:4,Jehoiada
+babel,uzcelts Bābeles tornis,,tower of Babel built
+Haggai,Haggai,,Haggai
+Zerubbabel,Zerubābels (Lūkas 3:27),Luke 3:27,Zerubbabel (Luke 3:27)
+Babylon,"Daniēla 2:32, 36-38; 7:4",,"Daniel 2:32, 36-38; 7:4"
+Medopersia,"Daniēla 2:32, 39; 7:5",,"Daniel 2:32, 39; 7:5"
+Greece,"Daniēla 2:32, 39; 7:6",,"Daniel 2:32, 39; 7:6"
+Rome,"Daniēla 2:33, 40; 7:7",,"Daniel 2:33, 40; 7:7"
+Angloamerica,"Daniēla 2:33, 41-43",,"Daniel 2:33, 41-43"
+Babylon_c,Babilona,,Babylon
+Medopersia_c,Medo-Persija,,Medo-Persia
+Greece_c,Grieķija,,Greece
+Rome_c,Roma,,Rome
+Angloamerica_c,Anglo-Amerika,,Anglo-America
+infliction1,400 gadu kaitējums,Acts 7:6,400 year infliction
+infliction2,Apustuļu darbi 7:6,,Acts 7:6
+Jacob2,Jēkabs/,Jacob/Israel 1858-1711 – 147 years,Jacob/
+Israel,Izraēla,Genesis 35:10,Israel
+Sarah,Sāra,"2008-1881 BCE – 127 years, Isaiah 51:2",Sarah
+Hagar,Hagara,Genesis 21:14,Hagar
+Haran,Hārana,Genesis 11:26,Haran
+Reumah,Reumah,Concubine – 4 sons 22:24,Reumah
+Milcah,Milka,8 sons (Bethuel and 7 more),Milcah
+Lot,Lot,Genesis 11:27,Lot
+Lots_wife,Lotas sieva,,Lot’s wife
+Lots_daughters,Lotas meitas,,Daughters of Lot
+Moab,Moāba (vecākā meita),Genesis 19:37,Moab (older daughter)
+Ammon,Ben-ammi (Amons),Genesis 19:38,Ben-ammi (Ammon)
+Bethuel,Betuela,Genesis 22:23,Bethuel
+Rebekah,Rebeka,,Rebekah
+Laban,Labans,Genesis 24:29,Laban
+Leah,Lea,Genesis 35:23,Leah
+Rachel,Reičela,Genesis 35:24,Rachel
+Bilhah,Bilhah,Genesis 35:25,Bilhah
+Zilpah,Zilpah,Genesis 35:26,Zilpah
+Reuben,Rūbens,,Reuben
+Simeon,Simeons,,Simeon
+Levi,Levi,Genesis 35:23,Levi
+Judah,Jūda,,Judah
+Issachar,Isačars,,Issachar
+Zebulun,Zebuluns,,Zebulun
+Dinah,Dīna,Genesis 34,Dinah
+Esau,Ēsavs/,,Esau/
+Edom,Edoms,Genesis 36:1,Edom
+Ishmael,Ismaēls,Genesis 16:16,Ishmael
+Manasseh2,(Manase,Genesis 41:50-52,(Manasseh
+Ephraim,un Efraims),,and Ephraim)
+Benjamin,Bendžamins,,Benjamin
+Dan,Dens,Genesis 35:23,Dan
+Naphtali,Naftāli,,Naphtali
+Gad,Gad,,Gad
+Asher,Ašers,,Asher
+Milcah1,"Uz, Buz, Kemuel,",Genesis 22:21,"Uz, Buz, Kemuel,"
+Milcah2,"Chesed, Hazo,",,"Chesed, Hazo,"
+Milcah3,"Pildašs, Džidlapa",,"Pildash, Jidlaph"
+Tebah,Tebah,Genesis 22:24,Tebah
+Gaham,Gahams,,Gaham
+Tahash,Tahash,,Tahash
+Maacah,Maacah,,Maacah
+Mahalath,Mahalath/,"Genesis 28:8, 9",Mahalath/
+Basemath,Basemath,"Genesis36:3, 4",Basemath
+Reuel,Reuel,"36:13, 17",Reuel
+Nahath,Nahats,,Nahath
+Zerah,Zerah,,Zerah
+Schammah,Schammah,,Schammah
+Mizzah,Mizzah,,Mizzah
+Adah,Adah,"36:11, 12, 15, 16",Adah
+Eliphaz,Elifazs,,Eliphaz
+Teman,Teman,,Teman
+Omar,Omārs,,Omar
+Zepho,Zefo,,Zepho
+Kenaz,Kenaz,,Kenaz
+Korah,Korah,,Korah
+Gatam,Gatam,,Gatam
+Amalek,Amalek,,Amalek
+Oholibamah,Oholibama,"36:14, 18",Oholibamah
+Jeush,Jeush,,Jeush
+Jalam,Jalam,,Jalam
+Nebaioth,Nebajots,Genesis 25:13,Nebaioth
+Kedar,Kedars,,Kedar
+Adbeel,Adbeel,,Adbeel
+Mibsam,Mibsam,,Mibsam
+Mishma,Mishma,,Mishma
+Dumah,Dumah,,Dumah
+Massa,Massa,,Massa
+Hadad,Hadads,,Hadad
+Tema,Tema,,Tema
+Jetur,Jetur,,Jetur
+Naphish,Nafish,,Naphish
+Kedemah,Kedema,,Kedemah
+Babylon2, ,no text left and right – empty!, 
+terahfam,Teras ģimenes locekļi,,members of Terah’s family
+rosetta,Rozetas akmens 196. g. p.m.ē.,,Rosetta stone 196 B.C.E.
+Herodotus,"Hērodots c. 484. gads. 425 BC, raksta The Histories",Father of History,"Herodotus c. 484 – c. 425 BC, writes The Histories"
+Aristotle,Aristotelis 384. – 322. g.pmē,"The First Teacher, The Philosopher",Aristotle 384 – 322 BC
+Ptolemy,Ptolemajs c 100 – g. 170. gads p.m.ē.,,Ptolemy c 100 – c. 170 C.E.
+Pythagoras,Pitagors c. 570. – c. 495 BC,,Pythagoras c. 570 – c. 495 BC
+Plato,Platons c. 427. gads. 348. gads pirms mūsu ēras,,Plato c. 427 – c. 348 BC
+Socrates,Sokrāts c. 470. – g. 399 BC,,Socrates c. 470 – c. 399 BC
+Josephus,Jāzeps c. 37 – c. 100. gads p.m.ē.,,Josephus c. 37 – c. 100 C.E.
+Cicero,Cicerons 106.-43.g.pmē,"influence on Latin language, 3 Jan 106 BC – 7 Dec 43 BC",Cicero 106–43 BC
+lachish_letters,Lačiša burti c. 590. gads p.m.ē.,,Lachish letters c. 590 B.C.E.
+lachish_reliefs,Lačiša reljefi c. 681. gads p.m.ē.,,Lachish reliefs c. 681 B.C.E.
+mesha_stele,Mesha Stele (moābīta akmens) c. 840. gads p.m.ē.,,Mesha Stele (Moabite stone) c. 840 B.C.E.
+gilgamesh,Gilgamešs un Aga 💇,,Gilgamesh and Aga 𒇽𒆥𒄄𒀀𒀝𒂵
+epic_gilgamesh,Gilgameša eposs (Sîn-lēqi-unninni),,Epic of Gilgamesh (Sîn-lēqi-unninni)
+oxyrhynchus,Oxyrhynchus Papyri,,Oxyrhynchus Papyri
+p52,Papiruss P52,,Papyrus P52
+daniel2_shift,0,Start 4.2,0
+daniel2_1,Ķēniņš Nebukadnecars,607 BCE,King Nebuchadnezzar
+daniel2_2,iznīcina Jeruzalemi,,destroys Jerusalem
+daniel2_3,Iekaro Babilonu,539 BCE,Conquers Babylon
+daniel2_4,Kīra dekrēti atgriežas,537 BCE,Cyrus decrees return
+daniel2_5,ebreji uz Jeruzalemi,,of Jews to Jerusalem
+daniel2_6,Aleksandrs Lielais,331 BCE,Alexander the Great
+daniel2_7,iekaro Persiju,,conquers Persia
+daniel2_8,Valda pār Izraēlu,63 BCE,Rules over Israel
+daniel2_9,Iznīcina Jeruzalemi,70 CE,Destroys Jerusalem
+daniel2_10,"Pirmā pasaules kara laikā,",1914-1918 CE,"During World War I,"
+daniel2_11,Angloamerikāņu pasaules vara,,Anglo-American World Power
+daniel2_12,rodas,End 4.2,comes into being
+qing-dynasty,1636-1912,,1636-1912
+qing-dynasty_c,Cjinu dinastija,1636-1912,Qing dynasty
+ming-dynasty,1368-1644,,1368-1644
+ming-dynasty_c,Mingu dinastija impēriskajā Ķīnā,1368-1644,Ming dynasty in imperial China
+yuan-dynasty,1271-1368,,1271-1368
+southern-song,1127-1279,,1127-1279
+northern-song,960-1127,,960-1127
+western-xia,1038-1227,,1038-1227
+yuan-dynasty_c,juaņa,1271-1368,Yuan
+southern-song_c,Dienvidu dziesma,1127-1279,Southern Song
+northern-song_c,Ziemeļu dziesma,960-1127,Northern Song
+western-xia_c,Rietumu Xia,1038-1227,Western Xia
+Copernicus,Nikolajs Koperniks,,Nicolaus Copernicus
+Galileo,Galileo Galilejs,Galileo di Vincenzo Bonaiuti de' Galilei,Galileo Galilei
+Newton,Īzaks Ņūtons,,Isaac Newton
+gregorian,Gregora kalendārs 1582. gads,,Gregorian calendar 1582
+shang-dynasty,c. 1600-1046 pirms mūsu ēras,,c. 1600-1046 BC
+western-zhou,c. 1046-771 pirms mūsu ēras,,c. 1046-771 BC
+eastern-zhou,770-256 pirms mūsu ēras,,770-256 BC
+qin-dynasty,Cjiņ 221.-207.g.pmē,,Qin 221-207 BC
+western-han,207. gads pirms mūsu ēras – 9. gads p.m.ē,,207 BC – 9 CE
+eastern-han,25-220 CE,,25-220 CE
+three-kingdoms,Trīs karaļvalstis 220.–280. g. p.m.ē,,Three kingdoms 220-280 CE
+sixteen-kingdoms,Sešpadsmit karaļvalstis 304.–439. g. p.m.ē,,Sixteen kingdoms 304-439 CE
+northern-dynasties,368-581 CE,,368-581 CE
+southern-dynasties,420-589 CE,,420-589 CE
+tang-dynasty1, ,, 
+tang-dynasty2,"618-690, 705-907",,"618-690, 705-907"
+wu-zhou,690-705 Wu Zhou,,690-705 Wu Zhou
+shang-dynasty_c,Shang dinastija,c. 1600-1046 BC,Shang Dynasty
+western-zhou_c,Rietumu Džou,c. 1046-771 BC,Western Zhou
+eastern-zhou_c,Austrumu Džou,770-256 BC,Eastern Zhou
+western-han_c,Rietumu Han,207 BC – 9 CE,Western Han
+eastern-han_c,Austrumu Han,25-220 CE,Eastern Han
+three-kingdoms_c,Ķīna,Three kingdoms 220-280 CE,China
+sixteen-kingdoms_c,Ķīna,Sixteen kingdoms 304-439 CE,China
+northern-dynasties_c,Ziemeļu dinastijas,368-581 CE,Northern Dynasties
+southern-dynasties_c,Dienvidu dinastijas,420-589 CE,Southern Dynasties
+tang-dynasty1_c,Tang,,Tang
+tang-dynasty2_c,Tanu dinastija,"618-690, 705-907",Tang Dynasty
+xia-dynasty,Sja dinastija Ķīnā c. 2070. – apm. 1600. gadu pirms mūsu ēras,,Xia dynasty in China c. 2070 – c. 1600 BC
+gonghe,Gonhes reģence 841.-828.g.pmē,,Gonghe Regency 841-828 BC
+Ashoka,Ašoka (ap 304.-232.g.pmē.) popularizē budismu,,Ashoka (c. 304-232 BC) promotes Buddhism
+siloam-tunnel,Hiskija pagarina Siloamas tuneli,c. 742-732 BC,Hezekiah extends Siloam tunnel
+Angloamerica2,"Angloamerikāņu pravietojumā Daniēla 2:33, 41-43 simbolizē dzelzs pēdas, kas sajauktas ar mālu.",,"Anglo-American is symbolized by the feet of iron mixed with clay in the prophecy in Daniel 2:33, 41-43"
+Manetho,Maneto raksta Aegyptiaca,,Manetho writes Aegyptiaca
+tribulation,"Lielās bēdas (Marka 13:19; Daniēla 12:1; Mateja 24:21, 22)",,"The Great Tribulation (Mark 13:19; Daniel 12:1; Matt 24:21, 22)"
+destruction_babylon,"Lielās Bābeles iznīcināšana (Atklāsmes 17:3, 15-18; 18:9, 10)",beginning of great tribulation (GT),"Destruction of Babylon the Great (Revelation 17:3, 15-18; 18:9, 10)"
+gog_of_magog,"Magoga Goga uzbrukums (Ecēhiēla 38:1, 2, 9-12, 18-23)",end of GT,"Attack of Gog of Magog (Ezekiel 38:1, 2, 9-12, 18-23)"
+sheep_goat,"Zemes iedzīvotāji tiks tiesāti, nošķirot aitas un kazas (Mateja 25:31-33)",end of GT,"Earth’s inhabitants will be judged, separating sheep and goats (Matthew 25:31-33)"
+annointed,Valstības valdnieku pulcēšanās (Mateja 24:31; 1. Korintiešiem 15:50-53; 1. Tesaloniķiešiem 4:15-17),end of GT,Gathering of Kingdom rulers (Matthew 24:31; 1 Corinthians 15:50-53; 1 Thessalonians 4:15-17)
+armageddon,"Armagedona kauja (Atklāsmes 16:14, 16; Jesaja 13:9; 2. Pētera 3:12)",end of system of things,"Battle of Armageddon (Revelation 16:14, 16; Isaiah 13:9; 2 Peter 3:12)"
+millenium,"Dieva Valstība sāk savu 1000 gadu valdīšanu (Atklāsmes 5:9, 10; 20:4, 6)",,"God’s Kingdom begins its 1000-year reign (Revelation 5:9, 10; 20:4, 6)"
+great_crowd,"Liels pūlis izdzīvo Armagedonā (Atklāsmes 7:9, 14; Psalms 37:9—11)",,"A great crowd survives Armageddon (Revelation 7:9, 14; Psalm 37:9-11)"
+world_population,Pasaules iedzīvotāju skaits miljardos pēdējo 2000 gadu laikā,,World population in billions in the last 2000 years
+607BCE,607. gads p.m.ē.,accommodate for language,607 B.C.E.
+539BCE,539. gads p.m.ē.,systems in style:,539 B.C.E.
+537BCE,537. gads p.m.ē.,>>year 537 before time<<,537 B.C.E.
+331BCE,331. gads p.m.ē.,so they need a word,331 B.C.E.
+63BCE,63. gads p.m.ē.,prior to the year,63 B.C.E.
+70CE,70. g. p.m.ē.,and something,70 C.E.
+1914CE,1914-1918 p.m.ē.,after the year,1914-1918 C.E.
+khmer_empire,804.–1431. gads p.m.ē.,,804 – 1431 C.E.
+khmer_empire_c,Khmeru impērija - Angkoras periods,,Khmer Empire - Angkor period
+byzantine_empire,330.–1453. gads p.m.ē.,,330-1453 C.E.
+byzantine_empire_c,Bizantijas impērija,,Byzantine Empire
+ottoman_empire,1299.–1922. g. p.m.ē.,,1299 – 1922 C.E.
+ottoman_empire_c,Osmaņu impērija,,Ottoman Empire
+holy_roman_empire,800.–924. gadi p.m.ē.,,800 – 924 C.E.
+holy_roman_empire2,862.–1806. g. p.m.ē.,,862 – 1806 C.E.
+holy_roman_empire_c,Svētā Romas impērija – pēc 1512. gada Vācu tautas Svētā Romas impērija,,Holy Roman Empire – after 1512 Holy Roman Empire of the German Nation
+mongol_empire,Mongoļu impērija 1206.–1294. g. p.m.ē.,,Mongol Empire 1206 – 1294 C.E.
+Genghis,Čingishans,,Genghis Khan
+maya_classic,250-950,,250-950
+maya_classic_c,Maiju civilizācija – klasiskais periods,,Maya civilization – classic period
+maya_postclassic,950-1539,,950-1539
+maya_postclassic_c,Maiju civilizācija – postklasiskais periods,,Maya civilization – postclassic period
+inca_empire,1438.–1533. g. p.m.ē.,,1438 – 1533 C.E.
+inca_empire_c,Inku impērija,,Inca empire
+gupta_empire,319.–550. g. p.m.ē.,,319 – 550 C.E.
+gupta_empire_c,Gupta impērija,,Gupta empire
+Teotihuacan,"lielākā pilsēta Amerikā, piramīdas būvē c. 200. gads p.m.ē.",,"largest city in the Americas, pyramids build c. 200 C.E."
+Teotihuacan_c,Teotivakans,,Teotihuacan
+Dionysius_Exiguus,"Dionīsijs Eksigūss, Anno Domini izgudrotājs",,"Dionysius Exiguus, inventor of Anno Domini"
+Umayyad,661.–750. gadi,,661 – 750 C.E.
+Umayyad_c,Omeijāda,,Umayyad
+Abbasid,750.–1258. g. p.m.ē.,,750 – 1258 C.E.
+Abbasid_c,Abasīdu kalifāts,,Abbasid Caliphate
+Mamluk,1250.–1517. gads p.m.ē.,,1250 – 1517 C.E.
+Mamluk_c,Mameluku sultanāts,,Mamluk Sultanate
+ur3,Ur III dinastija 😍😍,,Ur III dynasty 𒋀𒀕𒆠
+hammurabi,Hammurabi 𒄩𒄠𒈬𒊏𒁉,,Hammurabi 𒄩𒄠𒈬𒊏𒁉
+Al-Khwarizmi,al-Khwarizmi raksta Al-Jabr (algebra),,al-Khwarizmi writes Al-Jabr (Algebra)
+al-azhar,Kairā tiek izveidota Al-Azhar universitāte,,Al-Azhar University is established in Cairo
+Ibn-Sina,Ibn Sina vai Avicenna,,Ibn Sina or Avicenna
+Al-Ghazali,Al-Ghazali,,Al-Ghazali
