@@ -1,0 +1,447 @@
+key,text,notes,english
+version,4.7,,4.7
+pdf_title,Vizualizirana 6000 godina ljudske povijesti,,6000 years human history visualized
+pdf_subject,Vremenska crta čovječanstva,,Timeline of humankind
+BCE,pr.n.e.,,B.C.E.
+CE,n.e.,,C.E.
+year,godina,"timespan, age (Adam was 130 years old when Shem was born)",year
+years,godine,,years
+years_age,godine,"years when used as age for a person (different word than years in some languages), like he is 23 years old ",years
+age_kings, ,"if the word ""year"" appears after the numeral, like ""at the age of 35 years""", 
+month,mjesec,,month
+months,mjeseca,,months
+day,dan,,day
+days,dana,,days
+to,do,,to
+people,narod,,people
+judges,suci,,judges
+prophets,proroci,,prophets
+kings,kraljevi,,kings
+periods,razdoblja,,periods
+events,događanja,,events
+objects,predmeta ili predmeta,,objects or items
+Deluge,Potop,,Deluge
+Adam,Adam,Luke 3:38,Adam
+Seth,Seth,,Seth
+Enosh,Enosh,,Enosh
+Kenan,Kenan,,Kenan
+Mahalalel,Mahalalel,,Mahalalel
+Jared,Jared,,Jared
+Enoch,Enoh,,Enoch
+Methuselah,Metuzalem,Luke 3:37,Methuselah
+Lamech,Lamech,,Lamech
+Noah,Noa,,Noah
+Shem,Shem,,Shem
+Arpachshad,Arpakšad,Luke 3:36,Arpachshad
+Shelah,Shelah,,Shelah
+Eber,Eber,,Eber
+Peleg,Peleg,,Peleg
+Reu,Reu,,Reu
+Serug,Serug,Luke 3:35,Serug
+Nahor,Nahor,Genesis 11:24 ,Nahor
+Terah,Terah,,Terah
+Abraham,Abraham,,Abraham
+Isaac,Isaac,,Isaac
+Jacob,Jakovu,Luke 3:34,Jacob
+Joseph,Josipa,Genesis 37 ,Joseph
+Moses,Mojsije,,Moses
+Othniel,Otniel,Judges 3:9-11,Othniel
+Ehud,Ehud,Judges 3:15-18,Ehud
+Shamgar,Shamgar,Judges 3:31,Shamgar
+Barak,Barak,Judges 4:6,Barak
+Gideon,Gideone,Judges 7:1,Gideon
+Tola,Tola,Judges 10:1,Tola
+Jair,Jair,Judges 10:3,Jair
+Jephthah,Jiftah,Judges 11:1,Jephthah
+Ibzan,Ibzan,Judges 12:8,Ibzan
+Elon,Elon,Judges 12:11,Elon
+Abdon,Abdon,Judges 12:13,Abdon
+Samson,Samson,Judges 13:24,Samson
+Samuel,Samuel,1 Samuel 1:20,Samuel
+Saul,Saul,1 Samuel 9:2,Saul
+David,David,1 Samuel 16:13,David
+Solomon,Solomon,1 Kings 2:1,Solomon
+Rehoboam,Roboam,first king of southern kingdom of Juda,Rehoboam
+Abijah,Abija (Abijam),"3 years, also Abijam",Abijah (Abijam)
+Asa,Kao,,Asa
+Jehoshaphat,Jošafat,bce_float = -y+1 - (12-m)/12 – (31-d)/360,Jehoshaphat
+Jehoram2,Jorame,,Jehoram
+Ahaziah,Ahazija,,Ahaziah
+Athaliah,Kraljica Atalija,Queen Athaliah,Queen Athaliah
+Jehoash,Joash,,Jehoash
+Amaziah,Amazija,,Amaziah
+Uzziah,Ozija (Azarija),also Azariah,Uzziah (Azariah)
+Jotham,Jotam,,Jotham
+Ahaz,Ahaz,,Ahaz
+Hezekiah,Ezekija,,Hezekiah
+Manasseh,Manaše,,Manasseh
+Amon,Amon,,Amon
+Josiah,Jošija,,Josiah
+Jehoahaz,Joahaz,Only 3 months,Jehoahaz
+Jehoiakim,Jojakim,,Jehoiakim
+Jehoiachin,Jojakin,Only 3 months 10 days,Jehoiachin
+Zedekiah,Sidkija,,Zedekiah
+Jeroboam,Balonče,first king of northern 10-tribe kingdom,Jeroboam
+Nadab,Nadab,less than 2,Nadab
+Baasha,Baasha,,Baasha
+Elah,Elah,,Elah
+Zimri,Zimri,Only 7 days in ca. 751 BCE,Zimri
+OmriTibni,Omri i Tibni zajedno,4 years Omri and Tibni,Omri and Tibni together
+Omri,Omri (sam),from 947 Omri alone,Omri (alone)
+Ahab,Ahab,,Ahab
+Jehoram,Jorame,,Jehoram
+Jehu,Vješt kočijaš,,Jehu
+Jeoahaz,Jeoahaz,,Jeoahaz
+JeoahazJehoash,Jeoahaz i Joaš,For 3 years Jeoahaz and Jeoash reigned together,Jeoahaz and Jehoash
+Jehoash2,Joash (sam),Jehoash (alone),Jehoash (alone)
+Jeroboam2,Jeroboam II,,Jeroboam II
+Zechariah,Zaharija,"reign only recorded 6 months, probably only established 792 BCE",Zechariah
+Schallum,Schallum,only one month,Schallum
+Menahem,Menahem,,Menahem
+Pekahiah,Pekahiah,,Pekahiah
+Pekah,Pekah,,Pekah
+Hoshea,Hoshea,9 years from c. 748,Hoshea
+Elijah,Ilije,,Elijah
+Elisha,Elizej,,Elisha
+Jonah,Jona,,Jonah
+Amos,Amos,,Amos
+Joel,Joel,,Joel
+Hosea,Hošea,,Hosea
+Isaiah,Izaije,,Isaiah
+Micah,Micah,,Micah
+Zephaniah,Sefanija,,Zephaniah
+Nahum,Nahum,,Nahum
+Jeremiah,Jeremija,,Jeremiah
+Habakuk,Habakuk,,Habakuk
+Daniel,Daniel,,Daniel
+Ezekiel,Ezekiel,,Ezekiel
+Obadiah,Obadija,,Obadiah
+Malachi,Malahije,,Malachi
+Ruth,Ruth,,Ruth
+Ezra,Ezra,,Ezra
+Nehemiah,Nehemija,,Nehemiah
+Esther,Esther,,Esther
+Job,Posao,,Job
+moses2,1593. do 1473. p.n.e. – 120 godina,,1593 to 1473 B.C.E. – 120 years
+moses3,Mojsije,,Moses
+wilderness,Izrael u pustinji 1513. do 1473. p. n. e. – 40 godina,,Israel in the wilderness 1513 to 1473 B.C.E. – 40 years
+timespan_judges,1473. do 1117. p. n. e. – 356 godina,,1473 to 1117 B.C.E. – 356 years
+timespan_judges2,Vrijeme sudaca,,Time of the judges
+temple1,nisana 1513. p.n.e. do Ziva 1034. p.n.e.,,Nisan 1513 B.C.E. to Ziv 1034 B.C.E.
+temple2,479 godina do izgradnje hrama – 1. Kraljevima 6:1,1034 BCE,479 years until the temple construction – 1 Kings 6:1
+69weeks,Isus je krstio u jesen 29. n. e.,,Jesus baptized autumn 29 C.E.
+69weeks2,69 tjedana do Mesije – Daniel 9:25,,69 weeks to the Messiah – Daniel 9:25
+jesus_service,"3,5 godine Isusove službe, izvršeno 14. nisana, 33. n. e.",,"3.5 years of Jesus service, executed Nisan 14th, 33 C.E."
+jesus_life,Isus rođen 2. p.n.e.,,Jesus born 2 B.C.E.
+exile,607. do 537. p.n.e. – 70 godina (Jeremija 25:11),,607 to 537 B.C.E. – 70 years (Jeremiah 25:11)
+exile2,progonstvo,,exile
+7times,Otkrivenje 12:9,,Revelation 12:9
+7times2,7 puta – 2520 godina do Mesijanskog kraljevstva 1914. n. e. (Danijel 4:23),,7 times – 2520 years to the Messianic Kingdom 1914 C.E. (Daniel 4:23)
+ww1,Prvi svjetski rat – 1914. – 1918. n. e.,,World War I – 1914–1918 C.E.
+ww2,Drugi svjetski rat – 1939. – 1945. n. e.,,World War II – 1939–1945 C.E.
+30_year_war,Tridesetogodišnji rat u Europi 1618.-1648,,Thirty Years' War in Europe 1618-1648
+joshua,110 godina,,110 years
+joshua2,Joshua,,Joshua
+caleb,više od 85 godina,,more than 85 years
+caleb2,Caleb,,Caleb
+missionary1,"Prvo Pavlovo misionarsko putovanje, c. 47.-48. n. e. s Barnabom i Ivanom Markom",,"First Missionary Journey of Paul, c. 47-48 C.E. with Barnabas and John Mark"
+circumcision,"Pitanje obrezanja u Antiohiji, konferencija u Jeruzalemu c. 49. n. e.",,"Circumcision issue at Antioch, conference in Jerusalem c. 49 C.E."
+missionary2,Drugo misionarsko putovanje c. 49.-52. n. e. sa Silasom (Silvanom),,Second Missionary Journey c. 49-52 C.E with Silas (Silvanus)
+missionary3,Treće misionarsko putovanje c. 52.-56. n. e.,,Third Missionary Journey c. 52-56 C.E.
+caesarea,Pavao u pritvoru u Cezareji c. 56-58 n.e.,,Paul in custody in Caesarea c. 56-58 C.E.
+rome1,Pavlovo prvo zatvaranje u Rimu c. 59-61 n.e.,,Paul’s first imprisonment in Rome c. 59-61 C.E.
+rome2,"Pavlovo drugo zatvaranje u Rimu c. 65. n. e., 2. Timoteju napisana, Pavao pogubljen",,"Paul’s second imprisonment in Rome c. 65 CE, 2 Timothy written, Paul executed"
+Julius,Julije,,Julius
+Augustus,Augustus,Luke 2:1,Augustus
+Tiberius,Tiberije,Luke 3:1,Tiberius
+Caligula,Kaligula,,Caligula
+Claudius,Klaudije,Acts 11:28,Claudius
+Nero,Nero,,Nero
+Galba-Otho-Vitellius,"Galba, Otho i Vitellius (Godina četiri cara)",,"Galba, Otho and Vitellius (Year of the Four Emperors)"
+Vespasian,Vespazijan,,Vespasian
+event_exodus,Izlazak iz Egipta 14. nisana 1513. pr. n. e.,,"Exodus from Egypt on Nisan 14th, 1513 B.C.E."
+event_division_kingdom,Podjela Izraela 997. pr,,Division of Israel 997 BCE
+event_destruction_samaria,Uništenje Samarije 740. p. n. e. od strane Asirije,Destruction of Samaria 740 B.C.E. by Assyria,Destruction of Samaria 740 B.C.E. by Assyria
+event_destruction_samaria2,740. p.n.e. od strane Asirije,was shortened here for 2 lines,740 B.C.E. by Assyria
+event_destruction_jerusalem1,"Uništenje Jeruzalema 607. p. n. e. od strane Babilona, ​​390 godina nakon podjele kraljevstva (Ezekiel 4:5)",,"Destruction of Jerusalem 607 B.C.E. by Babylon, 390 years after the division of the kingdom (Ezekiel 4:5)"
+event_temple_rebuilt,Hram u Jeruzalemu ponovno izgrađen 515. pr. n. e.,,Temple in Jerusalem rebuilt 515 B.C.E.
+event_jerusalem_rebuilt,Jeruzalemski zid ponovno izgrađen 455. pr. n. e.,,Jerusalem wall rebuilt 455 B.C.E.
+event_destruction_jerusalem2,Uništenje Jeruzalema 70. godine n. e. od strane Rima pod Titom,,Destruction of Jerusalem 70 C.E. by Rome under Titus
+event_1914,"Kraj vremena naroda (Luka 21:24), Božje kraljevstvo počinje vladati na nebu 1914. n. e.",include scripture Luke 21:24,"End of the time of the nations (Luke 21:24), God’s kingdom starts to rule in heaven 1914 C.E. "
+became_king,godine postao kralj,,became king at age
+vulgate,Vulgata koju je dovršio Jeronim (latinski prijevod biblije) c. 405. n. e.,,Vulgate completed by Jerome (Latin translation of the bible) c. 405 C.E.
+gutenberg,Gutenbergova biblija tiskana 1455,,Gutenberg bible printed 1455
+erasmus,Grčki tekst Kršćanskih grčkih spisa objavio Desiderius Erasmus iz Rotterdama 1516,,Greek text of Christian Greek Scriptures published by Desiderius Erasmus of Rotterdam 1516
+luther,Lutherov prijevod Biblije u rujnu 1522,,Luther Bible translation in September 1522
+tyndale,Engleski prijevod Biblije od Tyndalea 1536,,English Bible translation by Tyndale 1536
+king_james,Biblija kralja Jamesa 1611,,King James Bible 1611
+69weeks3,"Isus započinje svoju službu 29. n. e. (Luka 3:1, 21)",,"Jesus starts his service 29 CE (Luke 3:1, 21)"
+ransom,sredina tjedna “prestanak žrtve” Daniel 9:27,,middle of week “sacrifice to cease” Daniel 9:27
+cornelius,Kornelije je kršten na kraju 70 tjedana (Danijel 9:24) 36. godine n. e.,,Cornelius baptized at the end of 70 weeks (Daniel 9:24) in 36 C.E.
+columbus,kraj pretkolumbijskog razdoblja u Americi 1492,,end of the pre-columbian period in the Americas 1492
+declaration_independence,proglašenje neovisnosti 13 kolonija u Americi 1776,,declaration of independence of 13 colonies in America 1776
+tischendorf,Tischendorf 1844. godine otkriva Sinajski kodeks iz 4. stoljeća,,Tischendorf discovers the Codex Sinaiticus from the 4th century in 1844
+dead_sea_scrolls,Napisani svici s Mrtvog mora,,Dead Sea Scrolls written
+septuagint,Septuaginta LXX prevedena,,Septuagint LXX translated
+watchtower,Prvo izdanje “Sionske stražarske kule i vjesnika Kristove prisutnosti” objavljeno je 1879.,,The first issue of “Zion’s Watch Tower and Herald of Christ’s Presence” is published in 1879
+photodrama,“Foto-drama stvaranja” prvi put je prikazana u New Yorku 11. siječnja 1914.,,"The “Photo-Drama of Creation” is first shown in New York on January 11, 1914"
+jehovahs_witnesses,"Istraživači Biblije usvojili su novo ime - Jehovini svjedoci (Izaija 43:10, 12) u Columbusu, Ohio, 1931.",include scripture,"The Bible Students adopted a new name – Jehovah’s Witnesses (Isaiah 43:10, 12) in Columbus, Ohio, 1931"
+gilead_school,"Watchtowerova Biblijska škola Gilead započela je s radom u ponedjeljak, 1. veljače 1943",,"Watchtower Bible School of Gilead began on Monday, February 1, 1943"
+new_world_translation1,“New World Translation of the Holy Scriptures” objavljen u Manchesteru u Engleskoj 18. lipnja 1960. ponovno uvodi ime Jehova u mnoge dijelove Biblije,hightlight reintroduction of Jehovah’s name,"“New World Translation of the Holy Scriptures” released in Manchester, England on June 18, 1960, reintroduce the name Jehovah in many parts of the Bible"
+truth_book,Knjiga “Istina koja vodi do vječnog života” izdana 1968,,The book “The Truth That Leads to Eternal Life” released 1968
+metropolitan,Početak velegradskog svjedočenja 2011,,Start of metropolitan witnessing in 2011
+jw_org,Početak JW.ORG s uputama u službi kraljevstva prosinac 2012,,Start of JW.ORG with instructions in kingdom ministry December 2012
+new_world_translation2,"Revidirani “Prijevod Svetoga pisma novi svijet” objavljen na godišnjem sastanku 2013., optimiziran za digitalnu i online upotrebu",new edition with digital and online in mind,"Revised “New World Translation of the Holy Scriptures” released at annual meeting 2013, optimized to be used digitally and online"
+jw_broadcasting,Početak emitiranja jw.emitiranja u listopadu 2014,,Start of jw.broadcasting in October 2014
+meeting_workbook,"Novi format sastanka sredinom tjedna s ""radnom knjižicom sastanaka"" od siječnja 2016",,New format of midweek meeting with “meeting workbook” starting January 2016
+covid19,COVID-19,,Covid-19
+cold_war,Geopolitička situacija označena kao “hladni rat” 1945.-1991,,Geopolitical situation labeled “Cold War” 1945-1991
+timeline_created,"Ova vremenska traka stvorena je 2023. godine, najtoplije godine u povijesti čovječanstva i posljednjih 125.000 godina",,"This timeline was created in 2023, the hottest year in human history and the last 125,000 years"
+codex_sinaiticus,Napisan Codex Sinaiticus,,Codex Sinaiticus written
+codex_vaticanus,Napisan Codex Vaticanus,,Codex Vaticanus written
+leningrad_codex,Lenjingradski kodeks napisan u Kairu 1008. godine,,Leningrad Codex written in Cairo AD 1008
+john,Ivan piše “otkrivenje” dok je bio prognan na Patmosu 96-98.,,John writes “revelation” while exiled on Patmos 96-98 C.E.
+nicaea1,Prvi sabor u Niceji,,First Council of Nicaea
+buddha,Buddha – Siddhartha Gautama c.563-c.483 p.n.e.,,The Buddha – Siddhartha Gautama c.563-c.483 B.C.E
+buddha2,Buddha alternativno c. 480-400 pr.n.e.,,Buddha alternatively c. 480-400 B.C.E.
+mohammed,Mohammed c. 570.-632. n. e.,,Mohammed c. 570-632 C.E.
+confucius,Konfucije c.551-c.479 p.n.e.,,Confucius c.551-c.479 B.C.E.
+hijrah,Hidžra - Putovanje iz Mekke u Medinu 16. jula 622. godine,,Hijrah - Journey Mecca to Medina 16 July 622
+moses_escape,"1553. p.n.e. Mojsije mora pobjeći iz Egipta – Izlazak 2:15, Djela 7:23",,"1553 B.C.E. Moses has to escape Egypt – Exodus 2:15, Acts 7:23"
+10plagues,1513. pr. n. e. Egipat prima 10 pošasti,,1513 B.C.E Egypt receives 10 plagues
+joseph_sold,Josip je prodan kao rob u dobi od 17 godina – Post 37:2,,Joseph sold as slave at the age of 17 – Gen 37:2
+infliction,400 godina nanošenja (Djela 7:6) – Išmael 1913. p.n.e.,,400 year infliction (Acts 7:6) – Ishmael 1913 B.C.E
+Alexander,Aleksandar Veliki (Danijel 11:3),,Alexander the Great (Daniel 11:3)
+persia,"Kir Veliki, Kambiz II., Darije I. 490. pr. Kr., Kserkso I. 480. pr. Kr. (Esterin muž, Daniel 11:2)",,"Cyrus the Great, Cambyses II, Darius I 490 BCE, Xerxes I 480 BCE (husband of Esther, Daniel 11:2)"
+persia2,Perzija,,Persia
+king_north,"Seleuk I Nikator (v5) Sirija do Antioha III (v10) i Seleuka IV (v18, 19) do Oktavijana (v20) i Tiberija (v21-24)",,"Seleucus I Nicator (v5) Syria to Antiochus III (v10) and Seleucus IV (v18, 19) down to Octavian (v20) and Tiberius (v21-24)"
+king_north1,Kralj Sjevera,,King of the North
+king_south,"Ptolomej I, II, III, IV (v11, 12), V (v15, 16) do bitke kod Akcija 31. pr. n. e.",,"Ptolemy I, II, III, IV (v11, 12), V (v15, 16) to the battle Actium 31 B.C.E."
+king_south1,kralj juga,,King of the South
+king_south2,"Britansko carstvo 1870., anglo-američka svjetska sila od 1914",,"British empire 1870, Anglo-American World Power since 1914"
+king_south3,kralj juga,,King of the South
+king_north2,"Njemačka s carem Williamom I. 1871. (v28), 1914. (v29), 1935. (v30b), 1939. (v31a)",,"Germany with Emperor William I 1871 (v28), 1914 (v29), 1935 (v30b), 1939 (v31a)"
+king_north3,Sjeverno,,North
+king_north4,"Sovjetski Savez 1945.-1991. (Danijel 11:32-39, 40b, 41)",,"Soviet Union 1945-1991 (Daniel 11:32-39, 40b, 41)"
+king_north5,Rusija od 2017. (w20. svibnja),,Russia since 2017 (w20 May)
+time_of_end,"Kristova prisutnost, završetak sustava stvari (Matej 24:3), posljednji dani (2. Timoteju 3:1)",scriptures written out,"Presence of Christ, Conclusion of the system of things (Matthew 24:3), the last days (2 Timothy 3:1)"
+time_of_end2,posljednjih dana,,last days
+suryavaman2,Kralj Suryavarman II gradi Angkor Wat 1113-1150,,King Suryavarman II builds Angkor Wat 1113-1150
+notre-dame,Notre-Dame de Paris izgrađena 1163-1260,,Notre-Dame de Paris built 1163-1260
+jehoiada,Jojada,2 Kings 11:4,Jehoiada
+babel,izgrađena babilonska kula,,tower of Babel built
+Haggai,Hagaj,,Haggai
+Zerubbabel,Zerubabel (Luka 3:27),Luke 3:27,Zerubbabel (Luke 3:27)
+Babylon,"Daniel 2:32, 36-38; 7:4",,"Daniel 2:32, 36-38; 7:4"
+Medopersia,"Daniel 2:32, 39; 7:5",,"Daniel 2:32, 39; 7:5"
+Greece,"Daniel 2:32, 39; 7:6",,"Daniel 2:32, 39; 7:6"
+Rome,"Daniel 2:33, 40; 7:7",,"Daniel 2:33, 40; 7:7"
+Angloamerica,"Danijel 2:33, 41-43",,"Daniel 2:33, 41-43"
+Babylon_c,Babilon,,Babylon
+Medopersia_c,Medo-Perzija,,Medo-Persia
+Greece_c,Grčka,,Greece
+Rome_c,Rim,,Rome
+Angloamerica_c,Angloamerika,,Anglo-America
+infliction1,400 godina stradanja,Acts 7:6,400 year infliction
+infliction2,Djela apostolska 7:6,,Acts 7:6
+Jacob2,Jakov/,Jacob/Israel 1858-1711 – 147 years,Jacob/
+Israel,Izrael,Genesis 35:10,Israel
+Sarah,Sarah,"2008-1881 BCE – 127 years, Isaiah 51:2",Sarah
+Hagar,Hagar,Genesis 21:14,Hagar
+Haran,Haran,Genesis 11:26,Haran
+Reumah,Reumah,Concubine – 4 sons 22:24,Reumah
+Milcah,Milcah,8 sons (Bethuel and 7 more),Milcah
+Lot,Mnogo,Genesis 11:27,Lot
+Lots_wife,Lotova žena,,Lot’s wife
+Lots_daughters,Kćeri Lotove,,Daughters of Lot
+Moab,Moab (starija kći),Genesis 19:37,Moab (older daughter)
+Ammon,Ben-ammi (Amon),Genesis 19:38,Ben-ammi (Ammon)
+Bethuel,Bethuel,Genesis 22:23,Bethuel
+Rebekah,Rebeka,,Rebekah
+Laban,Laban,Genesis 24:29,Laban
+Leah,Leah,Genesis 35:23,Leah
+Rachel,Rachel,Genesis 35:24,Rachel
+Bilhah,Bilhah,Genesis 35:25,Bilhah
+Zilpah,Zilpa,Genesis 35:26,Zilpah
+Reuben,Ruben,,Reuben
+Simeon,Šimuna,,Simeon
+Levi,Levi,Genesis 35:23,Levi
+Judah,Juda,,Judah
+Issachar,Jisakar,,Issachar
+Zebulun,Zebulun,,Zebulun
+Dinah,Dinah,Genesis 34,Dinah
+Esau,Ezav/,,Esau/
+Edom,Edom,Genesis 36:1,Edom
+Ishmael,Ishmael,Genesis 16:16,Ishmael
+Manasseh2,(Manaše,Genesis 41:50-52,(Manasseh
+Ephraim,i Efrajim),,and Ephraim)
+Benjamin,Benjamin,,Benjamin
+Dan,Dan,Genesis 35:23,Dan
+Naphtali,Naftali,,Naphtali
+Gad,Gad,,Gad
+Asher,Asher,,Asher
+Milcah1,"Uz, Buz, Kemuel,",Genesis 22:21,"Uz, Buz, Kemuel,"
+Milcah2,"Chesed, Hazo,",,"Chesed, Hazo,"
+Milcah3,"Pildash, Jidlaph",,"Pildash, Jidlaph"
+Tebah,Tebah,Genesis 22:24,Tebah
+Gaham,Gaham,,Gaham
+Tahash,Tahash,,Tahash
+Maacah,Maacah,,Maacah
+Mahalath,Mahalath/,"Genesis 28:8, 9",Mahalath/
+Basemath,Basemath,"Genesis36:3, 4",Basemath
+Reuel,Reuel,"36:13, 17",Reuel
+Nahath,Nahath,,Nahath
+Zerah,Zerah,,Zerah
+Schammah,Schammah,,Schammah
+Mizzah,Mizzah,,Mizzah
+Adah,Adah,"36:11, 12, 15, 16",Adah
+Eliphaz,Elifaz,,Eliphaz
+Teman,Teman,,Teman
+Omar,Omar,,Omar
+Zepho,Zefo,,Zepho
+Kenaz,Kenaz,,Kenaz
+Korah,Korah,,Korah
+Gatam,Gatam,,Gatam
+Amalek,Amalek,,Amalek
+Oholibamah,Oholibamah,"36:14, 18",Oholibamah
+Jeush,Jeush,,Jeush
+Jalam,Jalam,,Jalam
+Nebaioth,Nebajot,Genesis 25:13,Nebaioth
+Kedar,Kedar,,Kedar
+Adbeel,Adbeel,,Adbeel
+Mibsam,Mibsam,,Mibsam
+Mishma,Mišma,,Mishma
+Dumah,Dumah,,Dumah
+Massa,misa,,Massa
+Hadad,Hadad,,Hadad
+Tema,Tema,,Tema
+Jetur,Jetur,,Jetur
+Naphish,Naphish,,Naphish
+Kedemah,Kedemah,,Kedemah
+Babylon2, ,no text left and right – empty!, 
+terahfam,članovi Terahove obitelji,,members of Terah’s family
+rosetta,Kamen iz Rosette 196. p.n.e.,,Rosetta stone 196 B.C.E.
+Herodotus,"Herodot c. 484 – c. 425. pr. Kr., piše The Histories",Father of History,"Herodotus c. 484 – c. 425 BC, writes The Histories"
+Aristotle,Aristotel 384. – 322. pr,"The First Teacher, The Philosopher",Aristotle 384 – 322 BC
+Ptolemy,Ptolomej c 100 – c. 170. n. e.,,Ptolemy c 100 – c. 170 C.E.
+Pythagoras,Pitagora c. 570 – c. 495. pr. Kr,,Pythagoras c. 570 – c. 495 BC
+Plato,Platon c. 427 – c. 348. pr. Kr,,Plato c. 427 – c. 348 BC
+Socrates,Sokrat c. 470 – c. 399. pr. Kr,,Socrates c. 470 – c. 399 BC
+Josephus,Josipa c. 37 – c. 100 godina n.e.,,Josephus c. 37 – c. 100 C.E.
+Cicero,Ciceron 106–43 pr,"influence on Latin language, 3 Jan 106 BC – 7 Dec 43 BC",Cicero 106–43 BC
+lachish_letters,Lahiška slova c. 590. p.n.e.,,Lachish letters c. 590 B.C.E.
+lachish_reliefs,Lahiški reljefi c. 681. p.n.e.,,Lachish reliefs c. 681 B.C.E.
+mesha_stele,Stela Meša (moapski kamen) c. 840. p.n.e.,,Mesha Stele (Moabite stone) c. 840 B.C.E.
+gilgamesh,Gilgameš i Aga 𒇽𒆥𒄄𒀀𒀝𒂵,,Gilgamesh and Aga 𒇽𒆥𒄄𒀀𒀝𒂵
+epic_gilgamesh,Ep o Gilgamešu (Sîn-lēqi-unninni),,Epic of Gilgamesh (Sîn-lēqi-unninni)
+oxyrhynchus,Oksirinški papirus,,Oxyrhynchus Papyri
+p52,Papirus P52,,Papyrus P52
+daniel2_shift,0,Start 4.2,0
+daniel2_1,Kralj Nabukodonozor,607 BCE,King Nebuchadnezzar
+daniel2_2,razara Jeruzalem,,destroys Jerusalem
+daniel2_3,Osvaja Babilon,539 BCE,Conquers Babylon
+daniel2_4,Cyrus naređuje povratak,537 BCE,Cyrus decrees return
+daniel2_5,Židova u Jeruzalem,,of Jews to Jerusalem
+daniel2_6,Aleksandar Veliki,331 BCE,Alexander the Great
+daniel2_7,osvaja Perziju,,conquers Persia
+daniel2_8,Vlada nad Izraelom,63 BCE,Rules over Israel
+daniel2_9,Uništava Jeruzalem,70 CE,Destroys Jerusalem
+daniel2_10,"Tijekom Prvog svjetskog rata,",1914-1918 CE,"During World War I,"
+daniel2_11,Angloamerička svjetska sila,,Anglo-American World Power
+daniel2_12,nastaje,End 4.2,comes into being
+qing-dynasty,"1636-1912 (prikaz, stručni).",,1636-1912
+qing-dynasty_c,dinastija Qing,1636-1912,Qing dynasty
+ming-dynasty,"1368-1644 (prikaz, stručni).",,1368-1644
+ming-dynasty_c,Dinastija Ming u carskoj Kini,1368-1644,Ming dynasty in imperial China
+yuan-dynasty,"1271-1368 (prikaz, ostalo).",,1271-1368
+southern-song,"1127-1279 (prikaz, ostalo).",,1127-1279
+northern-song,"960-1127 (prikaz, ostalo).",,960-1127
+western-xia,"1038-1227 (prikaz, ostalo).",,1038-1227
+yuan-dynasty_c,Yuan,1271-1368,Yuan
+southern-song_c,južnjačka pjesma,1127-1279,Southern Song
+northern-song_c,Sjeverna pjesma,960-1127,Northern Song
+western-xia_c,Zapadni Xia,1038-1227,Western Xia
+Copernicus,Nikola Kopernik,,Nicolaus Copernicus
+Galileo,Galileo Galilei,Galileo di Vincenzo Bonaiuti de' Galilei,Galileo Galilei
+Newton,Isaac Newton,,Isaac Newton
+gregorian,Gregorijanski kalendar 1582,,Gregorian calendar 1582
+shang-dynasty,c. 1600.-1046. pr. Kr,,c. 1600-1046 BC
+western-zhou,c. 1046.-771. pr. Kr,,c. 1046-771 BC
+eastern-zhou,770-256 prije Krista,,770-256 BC
+qin-dynasty,Qin 221-207 pr,,Qin 221-207 BC
+western-han,207. prije Krista – 9. godine nove ere,,207 BC – 9 CE
+eastern-han,25-220 CE,,25-220 CE
+three-kingdoms,Tri kraljevstva 220-280 CE,,Three kingdoms 220-280 CE
+sixteen-kingdoms,Šesnaest kraljevstava 304-439 CE,,Sixteen kingdoms 304-439 CE
+northern-dynasties,368-581 CE,,368-581 CE
+southern-dynasties,420-589 CE,,420-589 CE
+tang-dynasty1, ,, 
+tang-dynasty2,"618-690, 705-907",,"618-690, 705-907"
+wu-zhou,690-705 Wu Zhou,,690-705 Wu Zhou
+shang-dynasty_c,Dinastija Shang,c. 1600-1046 BC,Shang Dynasty
+western-zhou_c,Zapadni Zhou,c. 1046-771 BC,Western Zhou
+eastern-zhou_c,Istočni Zhou,770-256 BC,Eastern Zhou
+western-han_c,Zapadni Han,207 BC – 9 CE,Western Han
+eastern-han_c,Istočni Han,25-220 CE,Eastern Han
+three-kingdoms_c,Kina,Three kingdoms 220-280 CE,China
+sixteen-kingdoms_c,Kina,Sixteen kingdoms 304-439 CE,China
+northern-dynasties_c,Sjeverne dinastije,368-581 CE,Northern Dynasties
+southern-dynasties_c,Južne dinastije,420-589 CE,Southern Dynasties
+tang-dynasty1_c,Tang,,Tang
+tang-dynasty2_c,Dinastija Tang,"618-690, 705-907",Tang Dynasty
+xia-dynasty,Dinastija Xia u Kini c. 2070. – c. 1600 godina prije Krista,,Xia dynasty in China c. 2070 – c. 1600 BC
+gonghe,Gonghe regentstvo 841-828 pr,,Gonghe Regency 841-828 BC
+Ashoka,Ashoka (oko 304.-232. pr. Kr.) promiče budizam,,Ashoka (c. 304-232 BC) promotes Buddhism
+siloam-tunnel,Ezekija produžuje Siloamski tunel,c. 742-732 BC,Hezekiah extends Siloam tunnel
+Angloamerica2,"Angloamerikanca simboliziraju stopala od željeza pomiješana s glinom u proročanstvu u Danielu 2:33, 41-43",,"Anglo-American is symbolized by the feet of iron mixed with clay in the prophecy in Daniel 2:33, 41-43"
+Manetho,Manetho piše Aegyptiaca,,Manetho writes Aegyptiaca
+tribulation,"Velika nevolja (Marko 13:19; Danijel 12:1; Matej 24:21, 22)",,"The Great Tribulation (Mark 13:19; Daniel 12:1; Matt 24:21, 22)"
+destruction_babylon,"Uništenje Babilona Velikog (Otkrivenje 17:3, 15-18; 18:9, 10)",beginning of great tribulation (GT),"Destruction of Babylon the Great (Revelation 17:3, 15-18; 18:9, 10)"
+gog_of_magog,"Napad Goga iz Magoga (Ezekiel 38:1, 2, 9-12, 18-23)",end of GT,"Attack of Gog of Magog (Ezekiel 38:1, 2, 9-12, 18-23)"
+sheep_goat,"Stanovnicima Zemlje će se suditi, odvajajući ovce od koza (Matej 25:31-33)",end of GT,"Earth’s inhabitants will be judged, separating sheep and goats (Matthew 25:31-33)"
+annointed,Okupljanje vladara Kraljevstva (Matej 24:31; 1. Korinćanima 15:50-53; 1. Solunjanima 4:15-17),end of GT,Gathering of Kingdom rulers (Matthew 24:31; 1 Corinthians 15:50-53; 1 Thessalonians 4:15-17)
+armageddon,"Bitka kod Armagedona (Otkrivenje 16:14, 16; Izaija 13:9; 2. Petrova 3:12)",end of system of things,"Battle of Armageddon (Revelation 16:14, 16; Isaiah 13:9; 2 Peter 3:12)"
+millenium,"Božje Kraljevstvo započinje svoju 1000-godišnju vladavinu (Otkrivenje 5:9, 10; 20:4, 6)",,"God’s Kingdom begins its 1000-year reign (Revelation 5:9, 10; 20:4, 6)"
+great_crowd,"Veliko mnoštvo preživjelo je Armagedon (Otkrivenje 7:9, 14; Psalam 37:9-11)",,"A great crowd survives Armageddon (Revelation 7:9, 14; Psalm 37:9-11)"
+world_population,Svjetsko stanovništvo u milijardama u posljednjih 2000 godina,,World population in billions in the last 2000 years
+607BCE,607. p.n.e.,accommodate for language,607 B.C.E.
+539BCE,539. p.n.e.,systems in style:,539 B.C.E.
+537BCE,537. p.n.e.,>>year 537 before time<<,537 B.C.E.
+331BCE,331. p.n.e.,so they need a word,331 B.C.E.
+63BCE,63. p.n.e.,prior to the year,63 B.C.E.
+70CE,70. n. e.,and something,70 C.E.
+1914CE,1914.-1918. n. e.,after the year,1914-1918 C.E.
+khmer_empire,804. – 1431. n. e.,,804 – 1431 C.E.
+khmer_empire_c,Kmersko carstvo - razdoblje Angkor,,Khmer Empire - Angkor period
+byzantine_empire,330.-1453. n. e.,,330-1453 C.E.
+byzantine_empire_c,Bizantsko Carstvo,,Byzantine Empire
+ottoman_empire,1299. – 1922. n. e.,,1299 – 1922 C.E.
+ottoman_empire_c,Osmansko Carstvo,,Ottoman Empire
+holy_roman_empire,800. – 924. n. e.,,800 – 924 C.E.
+holy_roman_empire2,862. – 1806. n. e.,,862 – 1806 C.E.
+holy_roman_empire_c,Sveto Rimsko Carstvo – nakon 1512. Sveto Rimsko Carstvo njemačkog naroda,,Holy Roman Empire – after 1512 Holy Roman Empire of the German Nation
+mongol_empire,Mongolsko carstvo 1206. – 1294. n. e.,,Mongol Empire 1206 – 1294 C.E.
+Genghis,Džingis-kan,,Genghis Khan
+maya_classic,"250-950 (prikaz, ostalo).",,250-950
+maya_classic_c,Civilizacija Maya – klasično razdoblje,,Maya civilization – classic period
+maya_postclassic,"950-1539 (prikaz, ostalo).",,950-1539
+maya_postclassic_c,Civilizacija Maya – postklasično razdoblje,,Maya civilization – postclassic period
+inca_empire,1438. – 1533. n. e.,,1438 – 1533 C.E.
+inca_empire_c,carstvo Inka,,Inca empire
+gupta_empire,319. – 550. n. e.,,319 – 550 C.E.
+gupta_empire_c,Guptino carstvo,,Gupta empire
+Teotihuacan,"najveći grad u Americi, izgrađene piramide c. 200. n. e.",,"largest city in the Americas, pyramids build c. 200 C.E."
+Teotihuacan_c,Teotihuacan,,Teotihuacan
+Dionysius_Exiguus,"Dionysius Exiguus, izumitelj Anno Domini",,"Dionysius Exiguus, inventor of Anno Domini"
+Umayyad,661. – 750. n. e.,,661 – 750 C.E.
+Umayyad_c,umajadski,,Umayyad
+Abbasid,750. – 1258. n. e.,,750 – 1258 C.E.
+Abbasid_c,Abasidski kalifat,,Abbasid Caliphate
+Mamluk,1250. – 1517. n. e.,,1250 – 1517 C.E.
+Mamluk_c,Mamelučki sultanat,,Mamluk Sultanate
+ur3,Ur III dinastija 𒋀𒀕𒆠,,Ur III dynasty 𒋀𒀕𒆠
+hammurabi,Hamurabi 𒄩𒄠𒈬𒊏𒁉,,Hammurabi 𒄩𒄠𒈬𒊏𒁉
+Al-Khwarizmi,al-Khwarizmi piše Al-Jabr (Algebra),,al-Khwarizmi writes Al-Jabr (Algebra)
+al-azhar,Sveučilište Al-Azhar osnovano je u Kairu,,Al-Azhar University is established in Cairo
+Ibn-Sina,Ibn Sina ili Avicena,,Ibn Sina or Avicenna
+Al-Ghazali,Al-Gazali,,Al-Ghazali
